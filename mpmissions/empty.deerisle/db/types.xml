@@ -6339,7 +6339,7 @@
   </type>
   <type name="CivilianSedan">
     <nominal>0</nominal>
-    <lifetime>3</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>1800</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -6349,7 +6349,7 @@
   </type>
   <type name="CivilianSedan_Black">
     <nominal>0</nominal>
-    <lifetime>3</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>1800</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -6359,7 +6359,7 @@
   </type>
   <type name="CivilianSedan_Wine">
     <nominal>0</nominal>
-    <lifetime>3</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>1800</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -10221,7 +10221,7 @@
   </type>
   <type name="Hatchback_02">
     <nominal>0</nominal>
-    <lifetime>3</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>1800</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -10231,7 +10231,7 @@
   </type>
   <type name="Hatchback_02_Black">
     <nominal>0</nominal>
-    <lifetime>3</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>1800</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -10240,7 +10240,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="Hatchback_02_Blue">
-    <nominal>0</nominal>
+    <nominal>3888000</nominal>
     <lifetime>3</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -15981,7 +15981,7 @@
   </type>
   <type name="Offroad_02">
     <nominal>0</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -16138,7 +16138,7 @@
   </type>
   <type name="OffroadHatchback">
     <nominal>0</nominal>
-    <lifetime>3</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>1800</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -16148,7 +16148,7 @@
   </type>
   <type name="OffroadHatchback_Blue">
     <nominal>0</nominal>
-    <lifetime>3</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>1800</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -16158,7 +16158,7 @@
   </type>
   <type name="OffroadHatchback_White">
     <nominal>0</nominal>
-    <lifetime>3</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>1800</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -18645,7 +18645,7 @@
   </type>
   <type name="Sedan_02">
     <nominal>0</nominal>
-    <lifetime>3</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>1800</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -18967,7 +18967,7 @@
   </type>
   <type name="Sedan_02_Grey">
     <nominal>0</nominal>
-    <lifetime>3</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>1800</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -19055,7 +19055,7 @@
   </type>
   <type name="Sedan_02_Red">
     <nominal>0</nominal>
-    <lifetime>3</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>1800</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -21352,7 +21352,7 @@
   </type>
   <type name="Truck_01_Covered">
     <nominal>0</nominal>
-    <lifetime>3</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>1800</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
