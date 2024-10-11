@@ -1,0 +1,34 @@
+{
+    "m_Version": 12,
+    "DisplayName": "MMG Combatshirt",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 0.0,
+    "Items": [
+        {
+            "ClassName": "MMG_combatshirt_green",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_combatshirt_black",
+                "MMG_combatshirt_tan",
+				"MMG_combatshirt_alpine",
+				"MMG_combatshirt_erdl",
+				"MMG_combatshirt_multicamblack",
+				"MMG_combatshirt_multicam",
+				"MMG_combatshirt_dark_woodland",
+				"MMG_combatshirt_ucp",
+				"MMG_combatshirt_multicam_tropic",
+				"MMG_combatshirt_police",
+				"MMG_combatshirt_atacs"
+            ]
+        }
+
+    ]
+}

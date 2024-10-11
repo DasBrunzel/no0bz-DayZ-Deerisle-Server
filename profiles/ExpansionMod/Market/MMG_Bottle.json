@@ -1,0 +1,34 @@
+{
+    "m_Version": 12,
+    "DisplayName": "MMG Bottle",
+    "Icon": "Bottle",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 0.0,
+    "Items": [
+        {
+            "ClassName": "MMG_bottle_black",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_bottle_olive",
+				"MMG_bottle_tan",
+				"MMG_bottle_alpine",
+				"MMG_bottle_erdl",
+				"MMG_bottle_multicamblack",
+				"MMG_sheath_multicam_tropic",
+				"MMG_bottle_multicam",
+				"MMG_bottle_dark_woodland",
+				"MMG_bottle_ucp",
+				"MMG_bottle_multicam_tropic",
+				"MMG_bottle_atacs"
+            ]
+        }
+
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "m_Version": 12,
+    "DisplayName": "MMG Combatpants",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 0.0,
+    "Items": [
+        {
+            "ClassName": "MMG_combatpants_olive",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_combatpants_black",
+				"MMG_combatpants_tan",
+				"MMG_combatpants_alpine",
+				"MMG_combatpants_erdl",
+				"MMG_combatpants_multicamblack",
+				"MMG_combatpants_multicam",
+				"MMG_combatpants_dark_woodland",
+				"MMG_combatpants_ucp",
+				"MMG_combatpants_multicam_tropic",
+				"MMG_combatpants_police",
+				"MMG_combatpants_atacs"
+            ]
+        }
+
+    ]
+}
