@@ -174,16 +174,37 @@
     ],
     "Descriptions": [
         {
-            "CategoryName": "General Info",
+            "CategoryName": "Generelle Regeln",
             "Descriptions": [
                 {
-                    "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                    "DescriptionText": "Politische, Rassistische und persönliche Beleidigungen sind nicht erlaubt."
                 },
                 {
-                    "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                    "DescriptionText": "Cheating/Bugabusing ist nicht erlaubt."
                 },
                 {
-                    "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                    "DescriptionText": "Seid fair zu einander, ein gemütliches Umgangs-Klima ist gewünscht."
+                },
+				{
+                    "DescriptionText": "Glitching, Duping und Ausnutzung von Spielmechaniken sind verboten!"
+                },
+				{
+                    "DescriptionText": "Wenn der Spieler durch einen Zombie, ein Tier oder eigenes Spielverhalten stirbt, erlischt das Recht auf das Spielerinventar."
+                },
+				{
+                    "DescriptionText": "Dauer Parken am Trader ist nicht erlaubt, nutzt Eure Basis"
+                },
+				{
+                    "DescriptionText": "Keine Basen innerhalb von 500m von einer Militäreinrichtung."
+                },
+				{
+                    "DescriptionText": "Nur Basen mit Flagpole und Flagge gelten als Basis. Der Besitzer hat darauf zu achten, das die Fahne immer gehisst ist."
+                },
+				{
+                    "DescriptionText": "Die Benutzung von Autos und Helis erfolgt auf eigene Gefahr. Wenn es einen Fehler auf dem Server gibt, der nicht vom Benutzer verschuldet ist, kann der Admin helfen. Um für den Verlust eines Fahrzeugs entschädigt zu werden, muss Videomaterial zur Verfügung gestellt werden."
+                },
+				{
+                    "DescriptionText": "Nur Basen mit Flagpole und Flagge gelten als Basis. Der Besitzer hat darauf zu achten, das die Fahne immer gehisst ist."
                 }
             ]
         },
