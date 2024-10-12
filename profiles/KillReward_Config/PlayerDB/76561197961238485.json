@@ -1,0 +1,21 @@
+{
+    "PlayerID": "76561197961238485",
+    "PlayerName": "Ascot",
+    "PlayerNotlisted": 0,
+    "KRPlayerPoints": -1230,
+    "PlayerDeaths": 0,
+    "Stats": [
+        {
+            "Name": "ZombieKill",
+            "Stat": 19
+        },
+        {
+            "Name": "longest_survivor_hit",
+            "Stat": 0
+        },
+        {
+            "Name": "PlayerSucide",
+            "Stat": 0
+        }
+    ]
+}
