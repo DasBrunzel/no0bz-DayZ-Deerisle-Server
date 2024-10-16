@@ -67,8 +67,8 @@
 	
 	
     "EnableHUDCompass": 1,
-    "NeedCompassItemForHUDCompass": 1,
-    "NeedGPSItemForHUDCompass": 1,
+    "NeedCompassItemForHUDCompass": 0,
+    "NeedGPSItemForHUDCompass": 0,
     "CompassColor": -1,
     "CreateDeathMarker": 1,
     "PlayerLocationNotifier": 1,
