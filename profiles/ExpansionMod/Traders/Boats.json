@@ -4,7 +4,7 @@
     "MinRequiredReputation": 0,
     "MaxRequiredReputation": 2147483647,
     "RequiredFaction": "",
-    "RequiredCompletedQuestID": -1,
+    "RequiredCompletedQuestID": -1
     "TraderIcon": "Boat",
 	"Currencies": [
         "Money_Ruble1",
@@ -25,14 +25,14 @@
         "Boats"
     ],
     "Items": {
-        "truckbattery": 1,
-        "expansionzodiacboat": 1,
-        "expansionutilityboat": 1,
+        "truckbattery": 350,
+        "expansionzodiacboat": 350,
+        "expansionutilityboat": 350,
         "headlighth7": 3,
-        "expansionlhd": 1,
-        "expansioncarkey": 1,
-        "headlighth7_box": 1,
-        "glowplug": 1,
+        "expansionlhd": 350,
+        "expansioncarkey": 350,
+        "headlighth7_box": 350,
+        "glowplug": 350,
         "canistergasoline": 1
     }
 }

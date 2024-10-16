@@ -4,7 +4,7 @@
     "MinRequiredReputation": 0,
     "MaxRequiredReputation": 2147483647,
     "RequiredFaction": "",
-    "RequiredCompletedQuestID": -1,
+    "RequiredCompletedQuestID": -1
     "TraderIcon": "Questionmark",
 	"Currencies": [
         "Money_Ruble1",
@@ -25,12 +25,12 @@
         "Event"
     ],
     "Items": {
-        "cauldron": 1,
-        "witchhat": 1,
-        "witchhood_red": 1,
-        "easteregg": 1,
-        "crookednose": 1,
-        "witchhood_black": 1,
+        "cauldron": 350,
+        "witchhat": 350,
+        "witchhood_red": 350,
+        "easteregg": 350,
+        "crookednose": 350,
+        "witchhood_black": 350,
         "witchhood_brown": 1
     }
 }

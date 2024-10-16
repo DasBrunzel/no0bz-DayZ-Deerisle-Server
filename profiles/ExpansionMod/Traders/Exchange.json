@@ -4,7 +4,7 @@
     "MinRequiredReputation": 0,
     "MaxRequiredReputation": 2147483647,
     "RequiredFaction": "",
-    "RequiredCompletedQuestID": -1,
+    "RequiredCompletedQuestID": -1
     "TraderIcon": "Trader",
 	"Currencies": [
         "Money_Ruble1",
@@ -25,10 +25,10 @@
         "Exchange"
     ],
     "Items": {
-        "Dollar3": 1,
-        "Coin3": 1,
-        "Forint3": 1,
-        "Pound3": 1,
+        "Dollar3": 350,
+        "Coin3": 350,
+        "Forint3": 350,
+        "Pound3": 350,
         "Euro3": 1
     }
 }

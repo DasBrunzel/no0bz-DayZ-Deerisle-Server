@@ -4,7 +4,7 @@
     "MinRequiredReputation": 0,
     "MaxRequiredReputation": 2147483647,
     "RequiredFaction": "",
-    "RequiredCompletedQuestID": -1,
+    "RequiredCompletedQuestID": -1
     "TraderIcon": "Fishing",
 	"Currencies": [
         "Money_Ruble1",
@@ -25,12 +25,12 @@
         "Fishing"
     ],
     "Items": {
-        "bonehook": 1,
-        "mackerel": 1,
-        "hook": 1,
-        "sardines": 1,
-        "worm": 1,
-        "carp": 1,
+        "bonehook": 350,
+        "mackerel": 350,
+        "hook": 350,
+        "sardines": 350,
+        "worm": 350,
+        "carp": 350,
         "fishingrod": 1
     }
 }
