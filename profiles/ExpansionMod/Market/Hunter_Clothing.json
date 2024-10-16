@@ -7,136 +7,78 @@
     "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "bearsteakmeat",
-            "MaxPriceThreshold": 16,
-            "MinPriceThreshold": 8,
+            "ClassName": "combatboots_beige",
+            "MaxPriceThreshold": 1755,
+            "MinPriceThreshold": 1055,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MaxStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "combatboots_black",
+                "combatboots_brown",
+                "combatboots_green",
+                "combatboots_grey"
+            ]
         },
         {
-            "ClassName": "goatsteakmeat",
-            "MaxPriceThreshold": 16,
-            "MinPriceThreshold": 8,
+            "ClassName": "hunterpants_winter",
+            "MaxPriceThreshold": 7305,
+            "MinPriceThreshold": 4385,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MaxStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "hunterpants_autumn",
+                "hunterpants_brown",
+                "hunterpants_spring",
+                "hunterpants_summer"
+            ]
         },
         {
-            "ClassName": "boarsteakmeat",
-            "MaxPriceThreshold": 16,
-            "MinPriceThreshold": 8,
+            "ClassName": "huntingbag",
+            "MaxPriceThreshold": 6100,
+            "MinPriceThreshold": 3660,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MaxStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "huntingbag_hannah"
+            ]
         },
         {
-            "ClassName": "pigsteakmeat",
-            "MaxPriceThreshold": 16,
-            "MinPriceThreshold": 8,
+            "ClassName": "huntingjacket_autumn",
+            "MaxPriceThreshold": 7180,
+            "MinPriceThreshold": 4310,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MaxStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "huntingjacket_brown",
+                "huntingjacket_spring",
+                "huntingjacket_summer",
+                "huntingjacket_winter"
+            ]
         },
         {
-            "ClassName": "deersteakmeat",
-            "MaxPriceThreshold": 16,
-            "MinPriceThreshold": 8,
+            "ClassName": "huntingvest",
+            "MaxPriceThreshold": 1075,
+            "MinPriceThreshold": 645,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MaxStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "wolfsteakmeat",
-            "MaxPriceThreshold": 16,
-            "MinPriceThreshold": 8,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MaxStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "cowsteakmeat",
-            "MaxPriceThreshold": 16,
-            "MinPriceThreshold": 8,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MaxStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "sheepsteakmeat",
-            "MaxPriceThreshold": 16,
-            "MinPriceThreshold": 8,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MaxStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "chickenbreastmeat",
-            "MaxPriceThreshold": 16,
-            "MinPriceThreshold": 8,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MaxStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Lard",
-            "MaxPriceThreshold": 16,
-            "MinPriceThreshold": 8,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MaxStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Bone",
-            "MaxPriceThreshold": 16,
-            "MinPriceThreshold": 8,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MaxStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Guts",
-            "MaxPriceThreshold": 16,
-            "MinPriceThreshold": 8,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MaxStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "huntingvest_winter"
+            ]
         }
     ]
 }
