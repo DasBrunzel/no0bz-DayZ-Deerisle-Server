@@ -25,7 +25,8 @@
         "Hunter Meat",
 		"Hunter Clothing",
 		"Hunter Accessoires",
-		"Hunter Weapons"
+		"Hunter Weapons",
+		"Hunter Pelt"
     ],
     "Items": {
         "bearsteakmeat": 1,
@@ -95,6 +96,16 @@
         "AmmoBox_762x54_20Rnd": 1,
 		"B95": 1,
         "AmmoBox_308WinTracer_20Rnd": 1,
-        "AmmoBox_308Win_20Rnd": 1
+        "AmmoBox_308Win_20Rnd": 1,
+		"BearPelt": 1,
+        "WildboarPelt": 1,
+        "ChickenFeather": 1,
+        "CowPelt": 1,
+        "DeerPelt": 1,
+        "GoatPelt": 1,
+        "PigPelt": 1,
+        "RabbitPelt": 1,
+        "SheepPelt": 1,
+		"WolfPelt": 1
     }
 }
