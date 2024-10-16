@@ -12,7 +12,7 @@
             "MinPriceThreshold": 20160,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
+            "MaxStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "hatchbackwheel",
@@ -38,7 +38,7 @@
             "MinPriceThreshold": 14400,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
+            "MaxStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "hatchback_02_wheel",
@@ -66,7 +66,7 @@
             "MinPriceThreshold": 18720,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
+            "MaxStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "sedan_02_wheel",
@@ -94,7 +94,7 @@
             "MinPriceThreshold": 23040,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
+            "MaxStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "civsedanwheel",
@@ -122,7 +122,7 @@
             "MinPriceThreshold": 28800,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
+            "MaxStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "truck_01_wheel",
@@ -148,7 +148,7 @@
             "MinPriceThreshold": 26640,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
+            "MaxStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "offroad_02_wheel",
@@ -175,7 +175,7 @@
             "MinPriceThreshold": 10000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
+            "MaxStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "expansiontractorbackwheel",
@@ -197,7 +197,7 @@
             "MinPriceThreshold": 30000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
+            "MaxStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "expansionuazwheel",
@@ -227,7 +227,7 @@
             "MinPriceThreshold": 70000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
+            "MaxStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "expansionbuswheel",
@@ -248,7 +248,7 @@
             "MinPriceThreshold": 100000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
+            "MaxStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "expansionvodnikwheel",
@@ -269,7 +269,7 @@
             "MinPriceThreshold": 70000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
+            "MaxStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "expansion_landrover_hood",

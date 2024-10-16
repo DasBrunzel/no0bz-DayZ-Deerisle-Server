@@ -12,7 +12,7 @@
             "MinPriceThreshold": 2500,
             "SellPricePercent": 30.0,
             "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
+            "MaxStockThreshold": 1,
             "QuantityPercent": 0,
             "SpawnAttachments": [],
             "Variants": [
@@ -35,7 +35,7 @@
             "MinPriceThreshold": 7500,
             "SellPricePercent": 30.0,
             "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
+            "MaxStockThreshold": 1,
             "QuantityPercent": 0,
             "SpawnAttachments": [],
             "Variants": [
