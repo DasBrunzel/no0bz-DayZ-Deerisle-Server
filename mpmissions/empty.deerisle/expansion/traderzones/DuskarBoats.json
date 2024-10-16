@@ -1,0 +1,23 @@
+{
+    "m_Version": 6,
+    "m_DisplayName": "Duskar Boats Trading Zone",
+    "Position": [
+        8021.35009765625,
+        1.111930012702942,
+        7194.97021484375
+    ],
+    "Radius": 100.0,
+    "BuyPricePercent": 100.0,
+    "SellPricePercent": -1.0,
+    "Stock": {
+        "truckbattery": 75,
+        "expansionzodiacboat": 7,
+        "headlighth7": 75,
+        "glowplug": 75,
+        "expansionlhd": 0,
+        "expansioncarkey": 75,
+        "headlighth7_box": 75,
+        "expansionutilityboat": 7,
+        "canistergasoline": 75
+    }
+}

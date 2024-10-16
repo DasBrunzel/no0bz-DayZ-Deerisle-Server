@@ -1,0 +1,13 @@
+{
+    "m_Version": 6,
+    "m_DisplayName": "World Trader Zone",
+    "Position": [
+        7500.0,
+        0.0,
+        7500.0
+    ],
+    "Radius": 15000.0,
+    "BuyPricePercent": 100.0,
+    "SellPricePercent": -1.0,
+    "Stock": {}
+}
