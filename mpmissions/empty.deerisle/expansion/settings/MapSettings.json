@@ -18,54 +18,36 @@
     "ShowDistanceOnServerMarkers": 1,
     "ServerMarkers": [
         {
-            "m_UID": "ServerMarker_Starks_Castle",
+            "m_UID": "ServerMarker_Trader_Starks_Castle",
             "m_Visibility": 6,
             "m_Is3D": 1,
-            "m_Text": "Traders - Starks Castle",
+            "m_Text": "Trader - Starks Castle",
             "m_IconName": "Trader",
             "m_Color": -13710223,
             "m_Position": [
-                5748.562500,
-                108.075310,
-                2454.716064
+                5754.0,
+                108.10749816894531,
+                2453.0
             ],
             "m_Locked": 0,
             "m_Persist": 0
         },
 		{
-            "m_UID": "ServerMarker_Boats",
+            "m_UID": "ServerMarker_Trader_Boat",
             "m_Visibility": 6,
             "m_Is3D": 1,
-            "m_Text": "Trader - Boats",
+            "m_Text": "Trader - Boat",
             "m_IconName": "Trader",
             "m_Color": -13710223,
             "m_Position": [
-                8015.608398,
-                -2.395645,
-                7193.145996
+                8029.0,
+                108.0,
+                7202.0
             ],
             "m_Locked": 0,
             "m_Persist": 0
-        },
-		{
-            "m_UID": "ServerMarker_Hunter",
-            "m_Visibility": 6,
-            "m_Is3D": 1,
-            "m_Text": "Trader - Hunter (Comming Soon)",
-            "m_IconName": "Trader",
-            "m_Color": -13710223,
-            "m_Position": [
-                5665.178711,
-                28.651230,
-                5364.970215
-            ],
-            "m_Locked": 0,
-            "m_Persist": 0
-        },
-		
+        }
     ],
-	
-	
     "EnableHUDCompass": 1,
     "NeedCompassItemForHUDCompass": 0,
     "NeedGPSItemForHUDCompass": 0,
