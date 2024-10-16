@@ -23,7 +23,9 @@
     "DisplayCurrencyName": "",
     "Categories": [
         "Hunter Meat",
-		"Hunter Clothing"
+		"Hunter Clothing",
+		"Hunter Accessoires",
+		"Hunter Weapons"
     ],
     "Items": {
         "bearsteakmeat": 1,
@@ -54,6 +56,19 @@
         "HuntingJacket_Spring": 1,
         "HuntingJacket_Summer": 1,
         "HuntingJacket_Winter": 1,
-        "HuntingVest": 1
+        "HuntingVest": 1,
+		"Battery9V": 1,
+        "WeaponCleaningKit": 1,
+        "SewingKit": 1,
+        "LeatherSewingKit": 1,
+        "Binoculars": 1,
+        "Compass": 1,
+        "OrienteeringCompass": 1,
+        "Rangefinder": 1,
+        "Matchbox": 1,
+		"Heatpack": 1,
+        "BearTrap": 1,
+        "FishingRod": 1,
+		"Hook": 1,
     }
 }
