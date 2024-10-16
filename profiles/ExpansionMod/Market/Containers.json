@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "barrelholes_blue",
-            "MaxPriceThreshold": 57420,
-            "MinPriceThreshold": 34450,
+            "MaxPriceThreshold": 7500,
+            "MinPriceThreshold": 4500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MaxStockThreshold": 1,

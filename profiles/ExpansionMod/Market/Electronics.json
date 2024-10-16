@@ -105,6 +105,17 @@
             "Variants": []
         },
         {
+            "ClassName": "battery9v",
+            "MaxPriceThreshold": 615,
+            "MinPriceThreshold": 370,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "SpawnAttachments": [],
+        },
+		{
             "ClassName": "alarmclock_blue",
             "MaxPriceThreshold": 615,
             "MinPriceThreshold": 370,
