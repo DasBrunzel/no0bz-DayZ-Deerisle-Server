@@ -5,7 +5,7 @@
     "MaxRequiredReputation": 2147483647,
     "RequiredFaction": "",
     "RequiredCompletedQuestID": -1,
-    "TraderIcon": "Trader",
+    "TraderIcon": "Helicopter",
 	"Currencies": [
         "Money_Ruble1",
         "Money_Ruble2",
@@ -22,13 +22,20 @@
     "DisplayCurrencyValue": 1,
     "DisplayCurrencyName": "",
     "Categories": [
-        "Exchange"
+        "Hunter Meat"
     ],
     "Items": {
-        "Dollar3": 1,
-        "Coin3": 1,
-        "Forint3": 1,
-        "Pound3": 1,
-        "Euro3": 1
+        "bearsteakmeat": 1,
+        "goatsteakmeat": 1,
+        "boarsteakmeat": 1,
+        "pigsteakmeat": 1,
+        "deersteakmeat": 1,
+        "wolfsteakmeat": 1,
+        "cowsteakmeat": 1,
+        "sheepsteakmeat": 1,
+        "chickenbreastmeat": 1,
+		"Lard": 1,
+        "Bone": 1,
+        "Guts": 1
     }
 }
