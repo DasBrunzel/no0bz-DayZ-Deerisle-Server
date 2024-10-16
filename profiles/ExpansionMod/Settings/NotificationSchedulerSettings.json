@@ -2,11 +2,38 @@
     "m_Version": 2,
     "Enabled": 0,
     "UTC": 0,
-    "UseMissionTime": 0,
+    "UseMissionTime": 1,
     "Notifications": [
         {
-            "Hour": 22,
-            "Minute": 0,
+            "Hour": 7,
+            "Minute": 15,
+            "Second": 0,
+            "Title": "Notification Schedule Test 1",
+            "Text": "Lorem ipsum dolor sit amet",
+            "Icon": "Info",
+            "Color": ""
+        },
+		        {
+            "Hour": 7,
+            "Minute": 45,
+            "Second": 0,
+            "Title": "Notification Schedule Test 1",
+            "Text": "Lorem ipsum dolor sit amet",
+            "Icon": "Info",
+            "Color": ""
+        },
+		        {
+            "Hour": 8,
+            "Minute": 15,
+            "Second": 0,
+            "Title": "Notification Schedule Test 1",
+            "Text": "Lorem ipsum dolor sit amet",
+            "Icon": "Info",
+            "Color": ""
+        },
+		        {
+            "Hour": 8,
+            "Minute": 45,
             "Second": 0,
             "Title": "Notification Schedule Test 1",
             "Text": "Lorem ipsum dolor sit amet",
@@ -14,8 +41,8 @@
             "Color": ""
         },
         {
-            "Hour": 22,
-            "Minute": 1,
+            "Hour": 0,
+            "Minute": 6,
             "Second": 0,
             "Title": "Notification Schedule Test 2",
             "Text": "Lorem ipsum dolor sit amet",
