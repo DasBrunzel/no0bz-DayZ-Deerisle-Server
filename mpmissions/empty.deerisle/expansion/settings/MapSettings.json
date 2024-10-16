@@ -46,6 +46,21 @@
             ],
             "m_Locked": 0,
             "m_Persist": 0
+        },
+		{
+            "m_UID": "ServerMarker_Trader_Hunter",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Trader - Hunter",
+            "m_IconName": "Trader",
+            "m_Color": -13710223,
+            "m_Position": [
+                5667.0,
+                31.0,
+                5417.0
+            ],
+            "m_Locked": 0,
+            "m_Persist": 0
         }
     ],
     "EnableHUDCompass": 1,
