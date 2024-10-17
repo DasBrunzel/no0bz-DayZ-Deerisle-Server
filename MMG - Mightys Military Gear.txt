@@ -1,0 +1,562 @@
+
+		<Category>MMG NBC gear
+		MMG_nbc_pouch,		                    	*,		5000,		500
+
+		<Category>MMG goggles
+		mmg_tac_goggles_red_green,		                    	*,		5000,		500
+		mmg_tac_goggles_red_black,		                    	*,		5000,		500
+		mmg_tac_goggles_red_tan,		                    	*,		5000,		500
+
+		<Category>MMG Armored Helmet/Visor
+		mmg_armored_helmet_green,		                    	*,		5000,		500
+		mmg_armored_helmet_black,		                    	*,		5000,		500
+		mmg_armored_helmet_tan,		                    	*,		5000,		500
+		mmg_armored_helmet_visor_tan,		                    	*,		5000,		500
+		mmg_armored_helmet_visor_black,		                    	*,		5000,		500
+		mmg_armored_helmet_visor_green,		                    	*,		5000,		500
+
+
+		<Category>MMG Sniper Boonie
+		mmg_boonie_green,		                    	*,		5000,		500
+		mmg_boonie_black,		                    	*,		5000,		500
+		mmg_boonie_tan,		                    	*,		5000,		500
+		mmg_boonie_erdl,		                    	*,		5000,		500
+		mmg_boonie_multicam,		                *,		5000,		500
+		mmg_boonie_multicamblack,		                *,		5000,		500
+		mmg_boonie_alpine,		                    	*,		5000,		500
+		mmg_boonie_dark_woodland,		                *,		5000,		500
+		mmg_boonie_ucp,		                    	*,		5000,		500
+		mmg_boonie_multicam_tropic,		                   *,		5000,		500
+
+
+		<Category>MMG Chest Rig
+			mmg_chestrig_green, *,   2500,  1000
+			mmg_chestrig_black, *,   2500,  1000
+			mmg_chestrig_tan, *,   2500,  1000
+			mmg_chestrig_erdl, *,   2500,  1000
+			mmg_chestrig_multicam, *,   2500,  1000
+			mmg_chestrig_multicamblack, *,   2500,  1000
+			mmg_chestrig_alpine, *,   2500,  1000
+			mmg_chestrig_dark_woodland, *,   2500,  1000
+			mmg_chestrig_ucp, *,   2500,  1000
+			mmg_chestrig_multicam_tropic, *,   2500,  1000
+			mmg_chestrig_atacs, *,   2500,  1000
+		
+		<Category>MMG Plate Carriers
+			MMG_JPC_Vest_Black, *,   5000,  1000
+			MMG_JPC_Vest_olive, *,   5000,  1000
+			MMG_JPC_Vest_tan, *,   5000,  1000
+			MMG_JPC_Vest_multicam, *,   5000,  1000
+			MMG_JPC_Vest_alpine, *,   5000,  1000
+			MMG_JPC_Vest_erdl, *,   5000,  1000
+			MMG_JPC_Vest_multicamblack, *,   5000,  1000
+			MMG_JPC_Vest_multicam_tropic, *,   5000,  1000
+			MMG_JPC_Vest_ucp, *,   5000,  1000
+			MMG_JPC_Vest_dark_woodland, *,   5000,  1000
+			MMG_JPC_Vest_atacs, *,   5000,  1000
+			
+		<Category>MMG Tactical-TEC Vest
+			MMG_tt_vest_black, *,   5000,  1000
+			MMG_tt_vest_green, *,   5000,  1000
+			MMG_tt_vest_tan, *,   5000,  1000
+			MMG_tt_vest_mutlicam, *,   5000,  1000
+			MMG_tt_vest_alpine, *,   5000,  1000
+			MMG_tt_vest_erdl, *,   5000,  1000
+			MMG_tt_vest_multicamblack, *,   5000,  1000
+			MMG_tt_vest_dark_woodland, *,   5000,  1000
+			MMG_tt_vest_ucp, *,   5000,  1000
+			MMG_tt_vest_police, *,   5000,  1000
+			MMG_tt_vest_multicam_tropic, *,   5000,  1000
+			MMG_tt_vest_atacs, *,   5000,  1000
+			MMG_tt_vest_admin, *,   -1,  150000
+			
+		<Category>MMG MK-III Armor
+			MMG_MK_III_Armor_black, *,   15000,  2000
+			MMG_MK_III_Armor_green, *,   15000,  2000
+			MMG_MK_III_Armor_tan, *,   15000,  2000
+			MMG_MK_III_Armor_multicamblack, *,   15000,  2000
+			MMG_MK_III_Armor_multicam, *,   15000,  2000
+			MMG_MK_III_Armor_erdl, *,   15000,  2000
+			MMG_MK_III_Armor_alpine, *,   15000,  2000
+			MMG_MK_III_Armor_dark_woodland, *,   7500,  2000
+			MMG_MK_III_Armor_ucp, *,   15000,  2000
+			MMG_MK_III_Armor_multicam_tropic, *,   15000,  2000
+			MMG_MK_III_Armor_atacs, *,   15000,  2000
+			
+		
+		<Category>MMG Pouches
+			MMG_Mag_Pouch_Black,  *, 2500,  500
+			MMG_Mag_Pouch_olive,  *, 2500,  500
+			MMG_Mag_Pouch_tan,  *, 2500,  500
+			MMG_Mag_Pouch_multicam,  *, 2500,  500
+			MMG_Mag_Pouch_alpine,  *, 2500,  500
+			MMG_Mag_Pouch_erdl,  *, 2500,  500
+			MMG_Mag_Pouch_dark_woodland,  *, 2500,  500
+			MMG_Mag_Pouch_ucp,  *, 2500,  500
+			MMG_Mag_Pouch_multicam_tropic,  *, 2500,  500
+			MMG_Mag_Pouch_multicamblack,  *, 2500,  500
+			MMG_Mag_Pouch_atacs,  *, 2500,  500
+			
+			MMG_double_magpouch_black,  *, 3500,  500
+			MMG_double_magpouch_green,  *, 3500,  500
+			MMG_double_magpouch_tan,  *, 3500,  500
+			MMG_double_magpouch_multicam,  *, 3500,  500
+			MMG_double_magpouch_atacs,  *, 3500,  500
+			MMG_double_magpouch_alpine,  *, 3500,  500
+			MMG_double_magpouch_erdl,  *, 3500,  500
+			MMG_double_magpouch_multicamblack,  *, 3500,  500
+			MMG_double_magpouch_dark_woodland,  *, 3500,  500
+			MMG_double_magpouch_ucp,  *, 3500,  500
+			MMG_double_magpouch_multicam_tropic,  *, 3500,  500
+			MMG_double_magpouch_atacs,  *, 3500,  500
+			
+			MMG_triple_magpouch_multicam_tropic,  *, 3500,  500
+			MMG_triple_magpouch_dark_woodland,  *, 3500,  500
+			MMG_triple_magpouch_alpine,  *, 3500,  500
+			MMG_triple_magpouch_green,  *, 3500,  500
+			MMG_triple_magpouch_erdl,  *, 3500,  500
+			MMG_triple_magpouch_ucp,  *, 3500,  500
+			MMG_triple_magpouch_multicamblack,  *, 3500,  500
+			MMG_triple_magpouch_tan,  *, 3500,  500
+			MMG_triple_magpouch_multicam,  *, 3500,  500
+			MMG_triple_magpouch_black,  *, 3500,  500
+			MMG_triple_atacs,  *, 3500,  500
+			
+			MMG_multiple_magpouch_black,  *, 2500,  500
+			MMG_multiple_magpouch_green,  *, 2500,  500
+			MMG_multiple_magpouch_tan,  *, 2500,  500
+
+
+			MMG_Med_Pouch_black,  *, 2500,  500
+			MMG_Med_Pouch_multicam,  *, 2500,  500
+			MMG_Med_Pouch_Olive,  *, 2500,  500
+			MMG_Med_Pouch_alpine,  *, 2500,  500
+			MMG_Med_Pouch_erdl,  *, 2500,  500
+			MMG_Med_Pouch_multicamblack,  *, 2500,  500
+			MMG_Med_Pouch_dark_woodland,  *, 2500,  500
+			MMG_Med_Pouch_ucp,  *, 2500,  500
+			MMG_Med_Pouch_multicam_tropic,  *, 2500,  500
+			MMG_Med_Pouch_atacs,  *, 2500,  500
+			
+			mmg_dump_pouch_black,  *, 2500,  500
+			mmg_dump_pouch_green,  *, 2500,  500
+			mmg_dump_pouch_tan,  *, 2500,  500
+			
+			MMG_ammo_pouch_black,  *, 2500,  500
+			MMG_ammo_pouch_olive,  *, 2500,  500
+			MMG_ammo_pouch_multicam,  *, 2500,  500
+			MMG_ammo_pouch_tan,  *, 2500,  500
+			MMG_ammo_pouch_alpine,  *, 2500,  500
+			MMG_ammo_pouch_erdl,  *, 2500,  500
+			MMG_ammo_pouch_multicamblack,  *, 2500,  500
+			MMG_ammo_pouch_dark_woodland,  *, 2500,  500
+			MMG_ammo_pouch_ucp,  *, 2500,  500
+			MMG_ammo_pouch_multicam_tropic,  *, 2500,  500
+			MMG_ammo_pouch_atacs,  *, 2500,  500
+			
+			MMG_tactical_pouch_tan,  *, 2500,  500
+			MMG_tactical_pouch_black,  *, 2500,  500
+			MMG_tactical_pouch_green,  *, 2500,  500
+			MMG_tactical_pouch_alpine,  *, 2500,  500
+			MMG_tactical_pouch_erdl,  *, 2500,  500
+			MMG_tactical_pouch_multicamblack,  *, 2500,  500
+			MMG_tactical_pouch_dark_woodland,  *, 2500,  500
+			MMG_tactical_pouch_ucp,  *, 2500,  500
+			MMG_tactical_pouch_multicam_tropic,  *, 2500,  500
+			MMG_tactical_pouch_atacs,  *, 2500,  500
+
+		<Category>MMG Backpacks
+			MMG_carrier_backpack_black,   *,  7500, 2000
+			MMG_carrier_backpack_olive,   *,  7500, 2000
+			MMG_carrier_backpack_tan,   *,  7500, 2000
+			MMG_carrier_backpack_multicam,   *,  7500, 2000
+			MMG_carrier_backpack_alpine,   *,  7500, 2000
+			MMG_carrier_backpack_erdl,   *,  7500, 2000
+			MMG_carrier_backpack_multicamblack,   *,  7500, 2000
+			MMG_carrier_backpack_dark_woodland		*,  7500, 2000
+			MMG_carrier_backpack_ucp				*,  7500, 2000
+			MMG_carrier_backpack_multicam_tropic	*,  7500, 2000
+			MMG_carrier_backpack_atacs				*,  7500, 2000
+			
+			MMG_supplybag_black,   *,  7500, 2000
+			MMG_supplybag_green,   *,  7500, 2000			
+			MMG_supplybag_tan,   *,  7500, 2000
+			MMG_supplybag_alpine,   *,  7500, 2000
+			MMG_supplybag_erdl,   *,  7500, 2000
+			MMG_supplybag_multicamblack,   *,  7500, 2000
+			MMG_supplybag_multicam,   *,  7500, 2000
+			MMG_supplybag_dark_woodland,   *,  7500, 2000
+			MMG_supplybag_ucp,   *,  7500, 2000
+			MMG_supplybag_multicam_tropic,   *,  7500, 2000
+			MMG_supplybag_atacs,   *,  7500, 2000
+			
+			
+			MMG_assault_pack_black,   *,  7500, 2000
+			MMG_assault_pack_olive,   *,  7500, 2000
+			MMG_assault_pack_tan,   *,  7500, 2000
+			MMG_assault_pack_dark_woodland,   *,  7500, 2000
+			MMG_assault_pack_erdl,   *,  7500, 2000
+			MMG_assault_pack_multicam,   *,  7500, 2000
+			MMG_assault_pack_multicamblack,   *,  7500, 2000
+			MMG_assault_pack_alpine,   *,  7500, 2000
+			MMG_assault_pack_ucp,   *,  7500, 2000
+			MMG_assault_pack_mct,   *,  7500, 2000
+			MMG_assault_pack_atacs,   *,  7500, 2000
+			
+			MMG_camelback_tan,   *,  7500, 2000
+			MMG_camelback_black,   *,  7500, 2000
+			MMG_camelback_green,   *,  7500, 2000
+			MMG_camelback_multicamblack,   *,  7500, 2000
+			MMG_camelback_multicam,   *,  7500, 2000
+			MMG_camelback_erdl,   *,  7500, 2000
+			MMG_camelback_alpine,   *,  7500, 2000
+			MMG_camelback_dark_woodland,   *,  7500, 2000
+			MMG_camelback_ucp,   *,  7500, 2000
+			MMG_camelback_multicam_tropic,   *,  7500, 2000
+			MMG_camelback_atacs,   *,  7500, 2000
+			
+			MMG_mmps_bag_black,   *,  7500, 2000
+			MMG_mmps_bag_green,   *,  7500, 2000
+			MMG_mmps_bag_tan,   *,  7500, 2000
+			MMG_mmps_bag_multicam,   *,  7500, 2000
+			MMG_mmps_bag_multicam_tropic,   *,  7500, 2000
+			MMG_mmps_bag_multicamblack,   *,  7500, 2000
+			MMG_mmps_bag_dark_woodland,   *,  7500, 2000
+			MMG_mmps_bag_erdl,   *,  7500, 2000
+			MMG_mmps_bag_alpine,   *,  7500, 2000
+			MMG_mmps_bag_ucp,   *,  7500, 2000
+			MMG_mmps_bag_atacs,   *,  7500, 2000
+
+		<Category>MMG Belt
+			MMG_falcon_b1_belt_olive,   *,  1000,   250
+			MMG_falcon_b1_belt_black,   *,  1000,   250
+			MMG_falcon_b1_belt_tan,   *,  1000,   250
+			MMG_falcon_b1_belt_alpine,   *,  1000,   250
+			MMG_falcon_b1_belt_erdl,   *,  1000,   250
+			MMG_falcon_b1_belt_multicamblack,   *,  1000,   250
+			MMG_falcon_b1_belt_multicam,   *,  1000,   250
+			MMG_falcon_b1_belt_dark_woodland,   *,  1000,   250
+			MMG_falcon_b1_belt_ucp,   *,  1000,   250
+			MMG_falcon_b1_belt_multicam_tropic,   *,  1000,   250
+			MMG_falcon_b1_belt_atacs,   *,  1000,   250
+
+		<Category>MMG Helmets
+			MMG_tactical_helmet_black,   *,   2500,  500
+			MMG_tactical_helmet_green,   *,   2500,  500
+			MMG_tactical_helmet_tan,   *,   2500,  500
+			MMG_tactical_helmet_multicam,   *,   2500,  500
+			MMG_tactical_helmet_alpine,   *,   2500,  500
+			MMG_tactical_helmet_erdl,   *,   2500,  500
+			MMG_tactical_helmet_multicamblack,   *,   2500,  500
+			MMG_tactical_helmet_dark_woodland,   *,   2500,  500
+			MMG_tactical_helmet_ucp,   *,   2500,  500
+			MMG_tactical_helmet_multicam_tropic,   *,   2500,  500
+			MMG_tactical_helmet_police,   *,   2500,  500
+			MMG_tactical_helmet_atacs,   *,   2500,  500
+			
+			MMG_striker_helmet_rusty,   *,   7500,  500
+			MMG_striker_helmet_black,   *,   7500,  500
+			MMG_striker_helmet_green,   *,   7500,  500
+			MMG_striker_helmet_tan,   *,   7500,  500
+			MMG_striker_helmet_alpine,   *,   7500,  500
+			MMG_striker_helmet_erdl,   *,   7500,  500
+			MMG_striker_helmet_multicamblack,   *,   7500,  500
+			MMG_striker_helmet_multicam,   *,   7500,  500
+			MMG_striker_helmet_dark_woodland,   *,   7500,  500
+			MMG_striker_helmet_admin,   *,   7500,  500
+			MMG_striker_helmet_ucp,   *,   -1,  50000
+			MMG_striker_helmet_multicam_tropic,   *,   7500,  500
+			MMG_striker_helmet_atacs,   *,   7500,  500
+
+		<Category>MMG Helmet Attachments
+			MMG_headphones_black,   *,   2500,  500
+			MMG_headphones_green,   *,   2500,  500
+			MMG_headphones_tan,   *,   2500,  500
+			MMG_headphones_ucp,   *,   2500,  500
+			
+			MMG_ballistic_earcover_black,   *,   2500,  500
+			MMG_ballistic_earcover_green,   *,   2500,  500
+			MMG_ballistic_earcover_tan,   *,   2500,  500
+			
+			MMG_tactical_visor_black,		              	*,		5000,		500
+			MMG_tactical_visor_green,		                *,		5000,		500
+			MMG_tactical_visor_tan,		                   	*,		5000,		500
+
+		<Category>MMG Holster:
+			MMG_Holster_black,   *,   2500,  500
+			MMG_Holster_green,   *,   2500,  500
+			MMG_Holster_tan,   *,   2500,  500
+			MMG_Holster_alpine,   *,   2500,  500
+			MMG_Holster_erdl,   *,   2500,  500
+			MMG_Holster_multicamblack,   *,   2500,  500
+			MMG_Holster_multicam,   *,   2500,  500
+			MMG_Holster_dark_woodland,   *,   2500,  500
+			MMG_Holster_ucp,   *,   2500,  500
+			MMG_Holster_multicam_tropic,   *,   2500,  500
+			MMG_Holster_atacs,   *,   2500,  500
+
+		<Category>MMG Sheath
+			MMG_sheath_black,   *,   2500,  500
+			MMG_sheath_olive,   *,   2500,  500
+			MMG_sheath_tan,   *,   2500,  500
+			MMG_sheath_mcb_digital,   *,   2500,  500
+			MMG_sheath_alpine,   *,   2500,  500
+			MMG_sheath_erdl,   *,   2500,  500
+			MMG_sheath_multicamblack,   *,   2500,  500
+			MMG_sheath_multicam,   *,   2500,  500
+			MMG_sheath_dark_woodland,   *,   2500,  500
+			MMG_sheath_ucp,   *,   2500,  500
+			MMG_sheath_atacs,   *,   2500,  500
+							
+		<Category>MMG Bottle
+			MMG_bottle_black,   *,   2500,  500
+			MMG_bottle_olive,   *,   2500,  500
+			MMG_bottle_tan,   *,   2500,  500
+			MMG_bottle_alpine,   *,   2500,  500
+			MMG_bottle_erdl,   *,   2500,  500
+			MMG_bottle_multicamblack,   *,   2500,  500
+			MMG_sheath_multicam_tropic,   *,   2500,  500
+			MMG_bottle_multicam,   *,   2500,  500
+			MMG_bottle_dark_woodland,   *,   2500,  500
+			MMG_bottle_ucp,   *,   2500,  500
+			MMG_bottle_multicam_tropic,   *,   2500,  500
+			MMG_bottle_atacs,   *,   2500,  500
+
+		<Category>MMG Carbine
+			MMG_carbine_red,   *,   2500,  500
+			MMG_carbine_green,   *,   2500,  500
+			MMG_carbine_orange,   *,   2500,  500
+			MMG_carbine_blue,   *,   2500,  500
+			MMG_carbine_black,   *,   2500,  500
+			MMG_carbine_grey,   *,   2500,  500
+
+		<Category>MMG Combatpants
+			MMG_combatpants_olive,   *,   2500,  500
+			MMG_combatpants_black,   *,   2500,  500
+			MMG_combatpants_tan,   *,   2500,  500
+			MMG_combatpants_alpine,   *,   2500,  500
+			MMG_combatpants_erdl,   *,   2500,  500
+			MMG_combatpants_multicamblack,   *,   2500,  500
+			MMG_combatpants_multicam,   *,   2500,  500
+			MMG_combatpants_erdl,   *,   2500,  500
+			MMG_combatpants_dark_woodland,   *,   2500,  500
+			MMG_combatpants_admin,   *,   -1,  50000
+			MMG_combatpants_ucp,   *,   2500,  500
+			MMG_combatpants_multicam_tropic,   *,   2500,  500
+			MMG_combatpants_police,   *,   2500,  500
+			MMG_combatpants_atacs,   *,   2500,  500
+			
+		<Category>MMG Tactical Pants
+			mmg_tactical_pants_black,   *,   2500,  500
+			mmg_tactical_pants_green,   *,   2500,  500
+			mmg_tactical_pants_tan,   *,   2500,  500
+			mmg_tactical_pants_ucp,   *,   2500,  500
+			mmg_tactical_pants_multicam,   *,   2500,  500
+			mmg_tactical_pants_erdl,   *,   2500,  500
+			mmg_tactical_pants_atacs,   *,   2500,  500
+			mmg_tactical_pants_multicamblack,   *,   2500,  500
+			mmg_tactical_pants_multicam_tropic,   *,   2500,  500
+			mmg_tactical_pants_alpine,   *,   2500,  500
+			mmg_tactical_pants_dark_woodland,   *,   2500,  500
+			mmg_tactical_pants_atacs,   *,   2500,  500
+
+		<Category>MMG Combatshirt
+			MMG_combatshirt_green,   *,   2500,  500
+			MMG_combatshirt_black,   *,   2500,  500
+			MMG_combatshirt_tan,   *,   2500,  500
+			MMG_combatshirt_alpine,   *,   2500,  500
+			MMG_combatshirt_erdl,   *,   2500,  500
+			MMG_combatshirt_multicamblack,   *,   2500,  500
+			MMG_combatshirt_multicam,   *,   2500,  500
+			MMG_combatshirt_dark_woodland,   *,   2500,  500
+			MMG_combatshirt_admin,   *,   -1,  50000
+			MMG_combatshirt_ucp,   *,   2500,  500
+			MMG_combatshirt_multicam_tropic,   *,   2500,  500
+			MMG_combatshirt_police,   *,   2500,  500
+			MMG_combatshirt_atacs,   *,   2500,  500
+
+			
+		<Category>MMG Operator Shirt
+			MMG_operatorshirt_black,   *,   2500,  500
+			MMG_operatorshirt_green,   *,   2500,  500
+			MMG_operatorshirt_tan,   *,   2500,  500
+			MMG_operatorshirt_erdl,   *,   2500,  500
+			MMG_operatorshirt_multicamblack,   *,   2500,  500
+			MMG_operatorshirt_multicam,   *,   2500,  500
+			MMG_operatorshirt_dark_woodland,   *,   2500,  500
+			MMG_operatorshirt_alpine,   *,   2500,  500
+			MMG_operatorshirt_ucp,   *,   2500,  500
+			MMG_operatorshirt_multicam_tropic,   *,   2500,  500
+			MMG_operatorshirt_atacs,   *,   2500,  500
+		
+		<Category>MMG Tactical Shirt
+			MMG_tactical_shirt_ucp,   *,   2500,  500
+			MMG_tactical_shirt_black,   *,   2500,  500
+			MMG_tactical_shirt_green,   *,   2500,  500
+			MMG_tactical_shirt_tan,   *,   2500,  500
+			MMG_tactical_shirt_multicamblack,   *,   2500,  500
+			MMG_tactical_shirt_erdl,   *,   2500,  500
+			MMG_tactical_shirt_dark_wl,   *,   2500,  500
+			MMG_tactical_shirt_alpine,   *,   2500,  500
+			MMG_tactical_shirt_multicam,   *,   2500,  500
+			MMG_tactical_shirt_multicam_tropic,   *,   2500,  500
+			MMG_tactical_shirt_atacs,   *,   2500,  500
+			
+		<Category>MMG Tactical Gloves
+			mmg_tactical_gloves_black,   *,   2500,  500
+			mmg_tactical_gloves_green,   *,   2500,  500
+			mmg_tactical_gloves_tan,   *,   2500,  500
+			mmg_tactical_gloves_multicam,   *,   2500,  500
+			mmg_tactical_gloves_multicamblack,   *,   2500,  500
+			mmg_tactical_gloves_erdl,   *,   2500,  500
+			mmg_tactical_gloves_alpine,   *,   2500,  500
+			mmg_tactical_gloves_dark_woodland,   *,   2500,  500
+			mmg_tactical_gloves_ucp,   *,   2500,  500
+			mmg_tactical_gloves_multicam_tropic,   *,   2500,  500
+			mmg_tactical_gloves_atacs,   *,   2500,  500
+			
+		<Category>MMG Jungle Boots
+			MMG_boots_black,   *,   2500,  500
+			MMG_boots_green,   *,   2500,  500
+			MMG_boots_tan,   *,   2500,  500
+			MMG_boots_multicam,   *,   2500,  500
+			MMG_boots_multicamblack,   *,   2500,  500
+			MMG_boots_erdl,   *,   2500,  500
+			MMG_boots_alpine,   *,   2500,  500
+			MMG_boots_dark_woodland,   *,   2500,  500
+			MMG_boots_ucp,   *,   2500,  500
+			MMG_boots_multicam_tropic,   *,   2500,  500
+			MMG_boots_atacs,   *,   2500,  500
+			
+		<Category>MMG Facemask
+			MMG_facemask_green,   *,   2500,  500
+			MMG_facemask_black,   *,   2500,  500
+			MMG_facemask_tan,   *,   2500,  500
+			MMG_facemask_alpine,   *,   2500,  500
+			MMG_facemask_erdl,   *,   2500,  500
+			MMG_facemask_multicamblack,   *,   2500,  500
+			MMG_facemask_multicam,   *,   2500,  500
+			MMG_facemask_dark_woodland,   *,   2500,  500
+			MMG_facemask_ucp,   *,   2500,  500
+			MMG_facemask_multicam_tropic,   *,   2500,  500
+			MMG_facemask_atacs,   *,   2500,  500
+			MMG_facemask_skull,   *,   2500,  500
+			MMG_facemask_joker,   *,   2500,  500
+			
+		<Category>MMG Balaclava
+			MMG_balaclava_black,   *,   2500,  500
+			MMG_balaclava_olive,   *,   2500,  500
+			MMG_balaclava_tan,   *,   2500,  500
+			MMG_balaclava_erdl,   *,   2500,  500
+			MMG_balaclava_alpine,   *,   2500,  500
+			MMG_balaclava_multicamblack,   *,   2500,  500
+			MMG_balaclava_multicam,   *,   2500,  500
+			MMG_balaclava_dark_woodland,   *,   2500,  500
+			MMG_balaclava_admin,   *,   -1,  50000
+			MMG_balaclava_ucp,   *,   2500,  500
+			MMG_balaclava_multicam_tropic,   *,   2500,  500
+			MMG_balaclava_atacs,   *,   2500,  500
+		
+		<Category> MMG Heavy Armour
+			MMG_MK_V_Armor_black,							*,		75000,		15000
+			MMG_MK_V_Armor_green,							*,		75000,		15000
+			MMG_MK_V_Armor_tan,								*,		75000,		15000
+			MMG_MK_V_Armor_multicamblack,					*,		75000,		15000
+			MMG_MK_V_Armor_multicam,						*,		75000,		15000
+			MMG_MK_V_Armor_alpine,							*,		75000,		15000
+			MMG_MK_V_Armor_dark_woodland,					*,		75000,		15000
+			MMG_MK_V_Armor_erdl,							*,		75000,		15000
+			MMG_MK_V_Armor_ucp,								*,		75000,		15000
+			MMG_MK_V_Armor_multicam_tropic,					*,		75000,		15000
+			MMG_MK_V_Armor_atacs,							*,		75000,		15000
+			
+			MMG_mk5_utility_pouch_black,					*,		2500,		1000
+			MMG_mk5_utility_pouch_green,					*,		2500,		1000
+			MMG_mk5_utility_pouch_tan,						*,		2500,		1000
+			MMG_mk5_utility_pouch_multicamblack,			*,		2500,		1000
+			MMG_mk5_utility_pouch_multicam,					*,		2500,		1000
+			MMG_mk5_utility_pouch_erdl,						*,		2500,		1000
+			MMG_mk5_utility_pouch_alpine,					*,		2500,		1000
+			MMG_mk5_utility_pouch_dark_woodland,			*,		2500,		1000
+			MMG_mk5_utility_pouch_ucp,						*,		2500,		1000
+			MMG_mk5_utility_pouch_multicam_tropic,			*,		2500,		1000
+			MMG_mk5_utility_pouch_atacs,					*,		2500,		1000
+			
+			MMG_mk5_grenade_pouch_black,					*,		2500,		1000
+			MMG_mk5_grenade_pouch_green,					*,		2500,		1000
+			MMG_mk5_grenade_pouch_tan,						*,		2500,		1000
+			MMG_mk5_grenade_pouch_multicamblack,			*,		2500,		1000
+			MMG_mk5_grenade_pouch_multicam,					*,		2500,		1000
+			MMG_mk5_grenade_pouch_alpine,					*,		2500,		1000
+			MMG_mk5_grenade_pouch_erdl,						*,		2500,		1000
+			MMG_mk5_grenade_pouch_dark_woodland,			*,		2500,		1000
+			MMG_mk5_grenade_pouch_ucp,						*,		2500,		1000
+			MMG_mk5_grenade_pouch_multicam_tropic,			*,		2500,		1000
+			MMG_mk5_grenade_pouch_atacs,					*,		2500,		1000
+			
+			<Category> MMG Patches Rubber
+			MMG_patch_rubber_dayz,		                        *,		1000,		100
+			MMG_patch_rubber_511,		                        *,		1000,		100
+			MMG_patch_rubber_driver,		                    *,		1000,		100
+			MMG_patch_rubber_medic,		                        *,		1000,		100
+			MMG_patch_rubber_pilot,		                        *,		1000,		100
+			MMG_patch_rubber_toxic,		                        *,		1000,		100
+			MMG_patch_rubber_cherno_special,		            *,		1000,		100
+			MMG_patch_rubber_livonia_special,		            *,		1000,		100
+			MMG_patch_rubber_namalsk_special,		            *,		1000,		100
+			MMG_patch_rubber_bushcraft,		                    *,		1000,		100
+			MMG_patch_rubber_bushcraft1,		                *,		1000,		100
+			MMG_patch_rubber_police,		                    *,		1000,		100
+			MMG_patch_rubber_punisher,		                    *,		1000,		100
+			MMG_patch_rubber_rangers,		            		*,		1000,		100
+			MMG_patch_rubber_eod,		                        *,		1000,		100
+			MMG_patch_rubber_mmg,		                   		*,		1000,		100
+			MMG_patch_rubber_sniper1,		                    *,		1000,		100
+			MMG_patch_rubber_australia,		                    *,		1000,		100
+			MMG_patch_rubber_austria,		                    *,		1000,		100
+			MMG_patch_rubber_austria1,		                	*,		1000,		100
+			MMG_patch_rubber_germany,		                    *,		1000,		100
+			MMG_patch_rubber_sweden,		                    *,		1000,		100
+			MMG_patch_rubber_norway,		                    *,		1000,		100
+			MMG_patch_rubber_ukraine,		                    *,		1000,		100
+			MMG_patch_rubber_bulgaria,		                	*,		1000,		100
+			MMG_patch_rubber_switzerland,		                *,		1000,		100
+			MMG_patch_rubber_czech_republic,		            *,		1000,		100
+			MMG_patch_rubber_denmark,		                    *,		1000,		100
+			MMG_patch_rubber_england,		                    *,		1000,		100
+			MMG_patch_rubber_finland,		               		*,		1000,		100
+			MMG_patch_rubber_france,		                	*,		1000,		100
+			MMG_patch_rubber_greece,		                    *,		1000,		100
+			MMG_patch_rubber_netherlands,		                *,		1000,		100
+			MMG_patch_rubber_poland,		                     *,		1000,		100
+			MMG_patch_rubber_south_africa,		                 *,		1000,		100
+			MMG_patch_rubber_slovakia,		                    *,		1000,		100
+			MMG_patch_rubber_uk,		                    *,		1000,		100
+			MMG_patch_rubber_usa,		                    *,		1000,		100
+			MMG_patch_rubber_bra,		                    *,		1000,		100
+			MMG_patch_rubber_can,		                    *,		1000,		100
+			MMG_patch_rubber_chl,		                    *,		1000,		100
+			MMG_patch_rubber_cro,		                    *,		1000,		100
+			MMG_patch_rubber_irl,		                    *,		1000,		100
+			MMG_patch_rubber_nzl,		                    *,		1000,		100
+			MMG_patch_rubber_rou,		                    *,		1000,		100
+			MMG_patch_rubber_tur,		                    *,		1000,		100
+			MMG_patch_rubber_mex,		                    *,		1000,		100
+			MMG_patch_rubber_por,		                    *,		1000,		100
+			MMG_patch_rubber_wales,                 		*,		1000,		100
+			MMG_patch_rubber_apos,		                    *,		1000,		100
+			MMG_patch_rubber_bpos,		                    *,		1000,		100
+			MMG_patch_rubber_abpos,		                    *,		1000,		100
+			MMG_patch_rubber_0pos,		                    *,		1000,		100
+			MMG_patch_rubber_aneg,		                    *,		1000,		100
+			MMG_patch_rubber_bneg,		                    *,		1000,		100
+			MMG_patch_rubber_abneg,		                    *,		1000,		100
+			MMG_patch_rubber_0neg,		                    *,		1000,		100
+			
+			<Category> MMG Patches Fabric
+			MMG_patch_fabric_dayz,		                        *,		1000,		100
+			MMG_patch_fabric_511,		                        *,		1000,		100
+			MMG_patch_fabric_driver,		                    *,		1000,		100
+			MMG_patch_fabric_medic,		                        *,		1000,		100
+			MMG_patch_fabric_pilot,		                        *,		1000,		100
+			MMG_patch_fabric_toxic,		                        *,		1000,		100
