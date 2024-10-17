@@ -61,4 +61,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<ce folder="CJ187-MoreMoney">
 		<file name="money_types.xml" type="types" />
 	</ce>
+		<ce folder="CannabisPlustypes">
+		<file name="cannabisplus_types.xml" type="types" />
+	</ce>
 </economycore>

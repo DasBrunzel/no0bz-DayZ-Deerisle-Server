@@ -1,6 +1,6 @@
 {
     "m_Version": 12,
-    "DisplayName": "Supermarkt",
+    "DisplayName": "Kiosk",
     "MinRequiredReputation": 0,
     "MaxRequiredReputation": 0,
     "RequiredFaction": "",
@@ -26,7 +26,9 @@
         "Food",
         "Fruit_And_Vegetables",
         "Meat",
-        "Fish"
+        "Fish",
+		"Cigarette",
+		"Growshop"
     ],
     "Items": {
         "sodacan_cola": 1,
@@ -104,6 +106,33 @@
         "bakedbeanscan": 1,
         "pleurotusmushroom": 1,
         "unknownfoodcan": 1,
-        "mackerelfilletmeat": 1
+        "mackerelfilletmeat": 1,
+		"CP_CigarettePack_CannabisSkunk": 75,
+        "CP_CigarettePack_CannabisBlue": 75,
+        "CP_CigarettePack_CannabisKush": 75,
+        "CP_CigarettePack_CannabisStardawg": 75,
+        "CP_CigarettePack_CannabisFuture": 75,
+        "CP_CigarettePack_CannabisS1": 75,
+        "CP_CigarettePack_CannabisNomad": 75,
+        "CP_CigarettePack_CannabisBlackFrost": 75,
+        "CP_CannabisSeedsPackSkunk": 75,
+        "CP_CannabisSeedsPackBlue": 75,
+        "CP_CannabisSeedsPackKush": 75,
+        "CP_CannabisSeedsPackStardawg": 75,
+        "CP_CannabisSeedsPackFuture": 75,
+        "CP_CannabisSeedsPackS1": 75,
+        "CP_CannabisSeedsPackNomad": 75,
+        "CP_CannabisSeedsPackBlackFrost": 75,
+        "CP_Relief_Balm": 75,
+        "CP_RollingPapers": 75,
+        "CP_Workbench_Kit": 75,
+        "CP_DryPost_Kit": 75,
+        "CP_PlasticWrapper": 75,
+        "CP_PlasticRoll": 75,
+        "CP_EmptyBag": 75,
+        "CP_Bagger": 75,
+		"CigarettePack_Chernamorka": 75,
+        "CigarettePack_Merkur": 75,
+        "CigarettePack_Partyzanka": 75
     }
 }
