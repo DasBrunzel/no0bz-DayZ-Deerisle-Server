@@ -58,4 +58,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="mmg_types_ucp.xml" type="types" />
 		<file name="mmg_types_ADMINGEAR.xml" type="types" />
 	</ce>
+		<ce folder="CJ187-MoreMoney">
+		<file name="money_types.xml" type="types" />
+	</ce>
 </economycore>
