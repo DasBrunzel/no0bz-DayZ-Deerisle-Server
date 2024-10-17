@@ -20,3 +20,10 @@
 
 - Classnames für MMG Mightys Military Gear
 - https://github.com/DasBrunzel/no0bz-DayZ-Deerisle-Server/blob/main/classname/MMG%20-%20Mightys%20Military%20Gear.txt
+
+------------
+
+DayZ-Expansion-Wiki
+https://github.com/ExpansionModTeam/DayZ-Expansion-Settings/wiki
+
+------------
