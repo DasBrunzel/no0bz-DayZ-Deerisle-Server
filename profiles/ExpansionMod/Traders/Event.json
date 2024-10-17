@@ -2,22 +2,17 @@
     "m_Version": 12,
     "DisplayName": "#STR_EXPANSION_MARKET_TRADER_EVENT",
     "MinRequiredReputation": 0,
-    "MaxRequiredReputation": 2147483647,
+    "MaxRequiredReputation": 0,
     "RequiredFaction": "",
-    "RequiredCompletedQuestID": -1
+    "RequiredCompletedQuestID": -1,
     "TraderIcon": "Questionmark",
-	"Currencies": [
-        "Money_Ruble1",
-        "Money_Ruble2",
-        "Money_Ruble5",
-        "Money_Ruble10",
-        "Money_Ruble50",
-        "Money_Ruble100",
-		"Money_Ruble200",
-        "Money_Ruble500",
-        "Money_Ruble1000",
-        "Money_Ruble2000",
-        "Money_Ruble5000"
+    "Currencies": [
+        "Pound3",
+        "Euro3",
+        "Dollar3",
+        "Riksdaler3",
+        "Forint3",
+        "Coin3"
     ],
     "DisplayCurrencyValue": 1,
     "DisplayCurrencyName": "",
@@ -25,12 +20,12 @@
         "Event"
     ],
     "Items": {
-        "cauldron": 350,
-        "witchhat": 350,
-        "witchhood_red": 350,
-        "easteregg": 350,
-        "crookednose": 350,
-        "witchhood_black": 350,
+        "cauldron": 1,
+        "witchhat": 1,
+        "witchhood_red": 1,
+        "easteregg": 1,
+        "crookednose": 1,
+        "witchhood_black": 1,
         "witchhood_brown": 1
     }
 }

@@ -2,22 +2,17 @@
     "m_Version": 12,
     "DisplayName": "#STR_EXPANSION_MARKET_TRADER_EXCHANGE",
     "MinRequiredReputation": 0,
-    "MaxRequiredReputation": 2147483647,
+    "MaxRequiredReputation": 0,
     "RequiredFaction": "",
-    "RequiredCompletedQuestID": -1
+    "RequiredCompletedQuestID": -1,
     "TraderIcon": "Trader",
-	"Currencies": [
-        "Money_Ruble1",
-        "Money_Ruble2",
-        "Money_Ruble5",
-        "Money_Ruble10",
-        "Money_Ruble50",
-        "Money_Ruble100",
-		"Money_Ruble200",
-        "Money_Ruble500",
-        "Money_Ruble1000",
-        "Money_Ruble2000",
-        "Money_Ruble5000"
+    "Currencies": [
+        "Pound3",
+        "Euro3",
+        "Dollar3",
+        "Riksdaler3",
+        "Forint3",
+        "Coin3"
     ],
     "DisplayCurrencyValue": 1,
     "DisplayCurrencyName": "",
@@ -25,10 +20,10 @@
         "Exchange"
     ],
     "Items": {
-        "Dollar3": 350,
-        "Coin3": 350,
-        "Forint3": 350,
-        "Pound3": 350,
+        "Dollar3": 1,
+        "Coin3": 1,
+        "Forint3": 1,
+        "Pound3": 1,
         "Euro3": 1
     }
 }

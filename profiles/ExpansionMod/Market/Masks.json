@@ -11,8 +11,8 @@
             "MaxPriceThreshold": 1045,
             "MinPriceThreshold": 625,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
@@ -22,8 +22,8 @@
             "MaxPriceThreshold": 935,
             "MinPriceThreshold": 560,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
@@ -33,19 +33,34 @@
             "MaxPriceThreshold": 340,
             "MinPriceThreshold": 205,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
+        },
+        {
+            "ClassName": "shemag_brown",
+            "MaxPriceThreshold": 115,
+            "MinPriceThreshold": 70,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "shemag_green",
+                "shemag_red",
+                "shemag_white"
+            ]
         },
         {
             "ClassName": "balaclavamask_beige",
             "MaxPriceThreshold": 2070,
             "MinPriceThreshold": 1245,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
@@ -54,7 +69,10 @@
                 "balaclavamask_white",
                 "balaclavamask_blackskull",
                 "balaclavamask_black",
-                "balaclavamask_green"
+                "balaclavamask_green",
+                "balaclavamask_bdu",
+                "balaclavamask_chain",
+                "balaclavamask_pig"
             ]
         },
         {
@@ -62,8 +80,8 @@
             "MaxPriceThreshold": 11845,
             "MinPriceThreshold": 7105,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
@@ -73,8 +91,8 @@
             "MaxPriceThreshold": 3525,
             "MinPriceThreshold": 2115,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
@@ -84,8 +102,19 @@
             "MaxPriceThreshold": 2905,
             "MinPriceThreshold": 1745,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "balaclavamask_bdu",
+            "MaxPriceThreshold": 11745,
+            "MinPriceThreshold": 7045,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
@@ -95,14 +124,15 @@
             "MaxPriceThreshold": 1675,
             "MinPriceThreshold": 1005,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
                 "balaclava3holes_blue",
                 "balaclava3holes_black",
-                "balaclava3holes_green"
+                "balaclava3holes_green",
+                "balaclava3holes_white"
             ]
         },
         {
@@ -110,8 +140,8 @@
             "MaxPriceThreshold": 3065,
             "MinPriceThreshold": 1840,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
@@ -121,8 +151,19 @@
             "MaxPriceThreshold": 2410,
             "MinPriceThreshold": 1445,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "balaclava3holes_white",
+            "MaxPriceThreshold": 1090,
+            "MinPriceThreshold": 655,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
@@ -132,8 +173,8 @@
             "MaxPriceThreshold": 835,
             "MinPriceThreshold": 500,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
@@ -143,8 +184,8 @@
             "MaxPriceThreshold": 5120,
             "MinPriceThreshold": 3070,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
@@ -154,8 +195,8 @@
             "MaxPriceThreshold": 11845,
             "MinPriceThreshold": 7105,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "gasmask_filter"
@@ -167,8 +208,8 @@
             "MaxPriceThreshold": 765,
             "MinPriceThreshold": 460,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "gasmask_filter"
@@ -180,8 +221,8 @@
             "MaxPriceThreshold": 590,
             "MinPriceThreshold": 355,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [

@@ -11,8 +11,8 @@
             "MaxPriceThreshold": 1180,
             "MinPriceThreshold": 710,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "battery9v"
@@ -24,8 +24,8 @@
             "MaxPriceThreshold": 5050,
             "MinPriceThreshold": 3030,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "battery9v"
@@ -37,8 +37,8 @@
             "MaxPriceThreshold": 1015,
             "MinPriceThreshold": 610,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
@@ -48,8 +48,8 @@
             "MaxPriceThreshold": 915,
             "MinPriceThreshold": 550,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
@@ -59,8 +59,8 @@
             "MaxPriceThreshold": 1115,
             "MinPriceThreshold": 670,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
@@ -70,8 +70,8 @@
             "MaxPriceThreshold": 16160,
             "MinPriceThreshold": 9695,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "carbattery"
@@ -83,8 +83,8 @@
             "MaxPriceThreshold": 1355,
             "MinPriceThreshold": 815,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "battery9v"
@@ -96,8 +96,8 @@
             "MaxPriceThreshold": 9025,
             "MinPriceThreshold": 5415,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "battery9v"
@@ -105,23 +105,12 @@
             "Variants": []
         },
         {
-            "ClassName": "battery9v",
-            "MaxPriceThreshold": 615,
-            "MinPriceThreshold": 370,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MaxStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "SpawnAttachments": [],
-        },
-		{
             "ClassName": "alarmclock_blue",
             "MaxPriceThreshold": 615,
             "MinPriceThreshold": 370,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
@@ -134,8 +123,8 @@
             "MaxPriceThreshold": 475,
             "MinPriceThreshold": 285,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
