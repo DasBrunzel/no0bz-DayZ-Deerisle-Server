@@ -13,7 +13,7 @@
         "Money_Ruble10",
         "Money_Ruble50",
         "Money_Ruble100",
-	"Money_Ruble200",
+		"Money_Ruble200",
         "Money_Ruble500",
         "Money_Ruble1000",
         "Money_Ruble2000",
@@ -27,8 +27,8 @@
         "Fruit_And_Vegetables",
         "Meat",
         "Fish",
-	"Cigarette",
-	"Growshop"
+		"Cigarette",
+		"Growshop"
     ],
     "Items": {
         "sodacan_cola": 1,
@@ -107,7 +107,7 @@
         "pleurotusmushroom": 1,
         "unknownfoodcan": 1,
         "mackerelfilletmeat": 1,
-	"CP_CigarettePack_CannabisSkunk": 75,
+		"CP_CigarettePack_CannabisSkunk": 75,
         "CP_CigarettePack_CannabisBlue": 75,
         "CP_CigarettePack_CannabisKush": 75,
         "CP_CigarettePack_CannabisStardawg": 75,
@@ -131,7 +131,7 @@
         "CP_PlasticRoll": 75,
         "CP_EmptyBag": 75,
         "CP_Bagger": 75,
-	"CigarettePack_Chernamorka": 75,
+		"CigarettePack_Chernamorka": 75,
         "CigarettePack_Merkur": 75,
         "CigarettePack_Partyzanka": 75
     }
