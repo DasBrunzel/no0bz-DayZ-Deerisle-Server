@@ -1,0 +1,168 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Pouches",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "MMG_Mag_Pouch_Black",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_Mag_Pouch_olive",
+                "MMG_Mag_Pouch_tan",
+				"MMG_Mag_Pouch_multicam",
+                "MMG_Mag_Pouch_alpine",
+				"MMG_Mag_Pouch_erdl",
+                "MMG_Mag_Pouch_dark_woodland",
+				"MMG_Mag_Pouch_ucp",
+                "MMG_Mag_Pouch_multicam_tropic",
+				"MMG_Mag_Pouch_multicamblack",
+                "MMG_Mag_Pouch_atacs",
+            ]
+        },
+        {
+            "ClassName": "MMG_double_magpouch_black",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_double_magpouch_green",
+                "MMG_double_magpouch_tan",
+                "MMG_double_magpouch_multicam",
+                "MMG_double_magpouch_atacs",
+                "MMG_double_magpouch_alpine",
+				"MMG_double_magpouch_erdl",
+                "MMG_double_magpouch_multicamblack",
+                "MMG_double_magpouch_dark_woodland",
+                "MMG_double_magpouch_ucp",
+                "MMG_double_magpouch_multicam_tropic"
+            ]
+        },
+		{
+            "ClassName": "MMG_triple_magpouch_multicam_tropic",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_triple_magpouch_dark_woodland",
+                "MMG_triple_magpouch_alpine",
+                "MMG_triple_magpouch_green",
+                "MMG_triple_magpouch_erdl",
+                "MMG_triple_magpouch_ucp",
+				"MMG_triple_magpouch_multicamblack",
+                "MMG_triple_magpouch_tan",
+                "MMG_triple_magpouch_multicam",
+                "MMG_triple_magpouch_black",
+                "MMG_triple_atacs"
+            ]
+        },
+		{
+            "ClassName": "MMG_multiple_magpouch_black",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_multiple_magpouch_green",
+                "MMG_multiple_magpouch_tan"
+            ]
+        },
+		{
+            "ClassName": "MMG_Med_Pouch_black",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_Med_Pouch_multicam",
+                "MMG_Med_Pouch_Olive",
+                "MMG_Med_Pouch_alpine",
+                "MMG_Med_Pouch_erdl",
+                "MMG_Med_Pouch_multicamblack",
+				"MMG_Med_Pouch_dark_woodland",
+                "MMG_Med_Pouch_ucp",
+                "MMG_Med_Pouch_multicam_tropic",
+                "MMG_Med_Pouch_atacs"
+            ]
+        },
+		{
+            "ClassName": "mmg_dump_pouch_black",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mmg_dump_pouch_green",
+                "mmg_dump_pouch_tan"
+            ]
+        },
+		{
+            "ClassName": "MMG_ammo_pouch_black",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_ammo_pouch_olive",
+                "MMG_ammo_pouch_multicam",
+                "MMG_ammo_pouch_tan",
+                "MMG_ammo_pouch_alpine",
+                "MMG_ammo_pouch_erdl",
+				"MMG_ammo_pouch_multicamblack",
+                "MMG_ammo_pouch_dark_woodland",
+                "MMG_ammo_pouch_ucp",
+                "MMG_ammo_pouch_multicam_tropic",
+				"MMG_ammo_pouch_atacs"
+            ]
+        },
+		{
+            "ClassName": "MMG_tactical_pouch_tan",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_tactical_pouch_black",
+                "MMG_tactical_pouch_green",
+                "MMG_tactical_pouch_alpine",
+                "MMG_tactical_pouch_erdl",
+                "MMG_tactical_pouch_multicamblack",
+				"MMG_tactical_pouch_dark_woodland",
+                "MMG_tactical_pouch_ucp",
+                "MMG_tactical_pouch_multicam_tropic",
+                "MMG_tactical_pouch_atacs"
+            ]
+        }
+    ]
+}

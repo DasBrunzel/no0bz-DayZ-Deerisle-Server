@@ -1,0 +1,33 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Holster",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "MMG_Holster_black",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 500
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_Holster_green",
+                "MMG_Holster_tan",
+				"MMG_Holster_alpine",
+                "MMG_Holster_erdl",
+				"MMG_Holster_multicamblack",
+                "MMG_Holster_multicam",
+				"MMG_Holster_dark_woodland",
+                "MMG_Holster_ucp",
+                "MMG_Holster_multicam_tropic",
+				"MMG_Holster_atacs",
+                "MMG_Holster_atacs"
+            ]
+        }
+    ]
+}
