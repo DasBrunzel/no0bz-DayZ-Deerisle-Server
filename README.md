@@ -22,6 +22,6 @@ Discord: https://discord.gg/JV2dCSKWws
 ------------
 
 # Server name: [GER][PVE] no0bz in Wild | Trader | AI | Drugs
-**Address:** 136.243.154.104:2302
-**Map:** Deerisle
-**PlayerMax:** 35
+- **Address:** 136.243.154.104:2302
+- **Map:** Deerisle
+- **PlayerMax:** 35
