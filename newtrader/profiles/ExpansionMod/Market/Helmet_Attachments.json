@@ -45,8 +45,8 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "MMG_tactical_visor_green",
-                "MMG_tactical_visor_tan"
+			"MMG_tactical_visor_green",
+			"MMG_tactical_visor_tan"
             ]
         }
     ]
