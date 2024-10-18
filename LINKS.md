@@ -23,8 +23,8 @@
 
 ------------
 
-DayZ-Expansion-Wiki
-https://github.com/ExpansionModTeam/DayZ-Expansion-Settings/wiki
+- DayZ-Expansion-Wiki
+- https://github.com/ExpansionModTeam/DayZ-Expansion-Settings/wiki
 
 ------------
 
