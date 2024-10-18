@@ -19,7 +19,7 @@ Discord: https://discord.gg/JV2dCSKWws
 - Exchange :x:
 - Special :x: (25%)
 
-Vanilla/Expansion/CannabisPlus
+Vanilla/Expansion/CannabisPlus/Mightys Military Gear
 
 ------------
 
