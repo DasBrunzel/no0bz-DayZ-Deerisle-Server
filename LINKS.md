@@ -23,7 +23,10 @@
 
 ------------
 
-DayZ-Expansion-Wiki
-https://github.com/ExpansionModTeam/DayZ-Expansion-Settings/wiki
+- DayZ-Expansion-Wiki
+- https://github.com/ExpansionModTeam/DayZ-Expansion-Settings/wiki
 
 ------------
+
+- Expansion Classnames
+- https://github-wiki-see.page/m/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5DList-of-the-classnames
