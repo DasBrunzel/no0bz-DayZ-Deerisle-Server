@@ -1,6 +1,8 @@
 # no0bz-DayZ-Deerisle-Server
 Discord: https://discord.gg/JV2dCSKWws
 
+------------
+
 
 # Trader Status
 
@@ -16,3 +18,10 @@ Discord: https://discord.gg/JV2dCSKWws
 - Exchange ❌
 - Fishing ❌
 - Special ❌
+
+------------
+
+# Server name: [GER][PVE] no0bz in Wild | Trader | AI | Drugs
+**Address:** 136.243.154.104:2302
+**Map:** Deerisle
+**PlayerMax:** 35
