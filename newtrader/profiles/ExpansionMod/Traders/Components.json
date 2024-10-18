@@ -32,7 +32,8 @@
 		"Furnishings",
         "Flags",
 		"Spraycans",
-		"Gardening"
+		"Gardening",
+		"Fishing"
     ],
     "Items": {
         "partytent_lunapark": 1,
@@ -285,6 +286,10 @@
 		"pepperseedspack": 75,
 		"tomatoseedspack": 75,
 		"zucchiniseedspack": 75,
-		"pumpkinseedspack": 75
+		"pumpkinseedspack": 75,
+        "bonehook": 75,
+        "hook": 75,
+        "worm": 75,
+        "fishingrod": 75
     }
 }
