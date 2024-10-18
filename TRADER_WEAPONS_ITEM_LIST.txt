@@ -1,46 +1,3 @@
-{
-    "m_Version": 12,
-    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_WEAPONS",
-    "MinRequiredReputation": 0,
-    "MaxRequiredReputation": 0,
-    "RequiredFaction": "",
-    "RequiredCompletedQuestID": -1,
-    "TraderIcon": "Shotgun",
-    "Currencies": [
-        "Money_Ruble1",
-        "Money_Ruble2",
-        "Money_Ruble5",
-        "Money_Ruble10",
-        "Money_Ruble50",
-        "Money_Ruble100",
-		"Money_Ruble200",
-        "Money_Ruble500",
-        "Money_Ruble1000",
-        "Money_Ruble2000",
-        "Money_Ruble5000"
-    ],
-    "DisplayCurrencyValue": 1,
-    "DisplayCurrencyName": "",
-    "Categories": [
-        "Assault_Rifles",
-        "Submachine_Guns",
-        "Rifles",
-        "Pistols",
-        "Sniper_Rifles",
-        "Shotguns",
-        "Crossbows",
-        "Melee_Weapons",
-        "Ammo",
-        "Ammo_Boxes",
-        "Knifes",
-        "Magazines",
-        "Muzzles",
-        "Bayonets",
-        "Optics",
-        "Buttstocks",
-        "Handguards"
-    ],
-    "Items": {
 			"fal": 75,
 			"akm": 75,
 			"ak101": 75,
@@ -311,6 +268,4 @@
 			"expansionexps3holooptic": 75,
 			"expansionhamroptic": 75,
 			"expansion_pmii25optic": 75,
-			"expansionkar98scopeoptic": 75
-    }
-}
+			"expansionkar98scopeoptic": 75,
