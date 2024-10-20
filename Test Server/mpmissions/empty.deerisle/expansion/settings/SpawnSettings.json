@@ -157,7 +157,7 @@
             "WoolCoat_Beige",
             "WoolCoat_Beige",
             "M65Jacket_Black ",
-            "M65Jacket_Khaki "
+            "M65Jacket_Khaki"
         ],
         "Vests": [],
         "Gloves": [],
@@ -191,13 +191,63 @@
     },
     "EnableSpawnSelection": 1,
     "SpawnOnTerritory": 0,
+    "StartingClothing": {
+        "EnableCustomClothing": 1,
+        "SetRandomHealth": 1,
+        "Headgear": [],
+        "Glasses": [],
+        "Masks": [],
+        "Tops": [
+            "TShirt_Green",
+            "TShirt_Blue",
+            "TShirt_Black",
+            "TShirt_Beige",
+            "TShirt_Red",
+            "TShirt_OrangeWhiteStripes",
+            "TShirt_White",
+            "TShirt_Red",
+            "TShirt_Grey",
+            "TShirt_RedBlackStripes"
+        ],
+        "Vests": [],
+        "Gloves": [],
+        "Pants": [
+            "CanvasPants_Beige",
+            "CanvasPants_Blue",
+            "CanvasPants_Grey",
+            "CanvasPants_Red",
+            "CanvasPants_Violet",
+            "CanvasPantsMidi_Beige",
+            "CanvasPantsMidi_Blue",
+            "CanvasPantsMidi_Grey",
+            "CanvasPantsMidi_Red",
+            "CanvasPantsMidi_Violet"
+        ],
+        "Belts": [],
+        "Shoes": [
+            "AthleticShoes_Blue",
+            "AthleticShoes_Grey",
+            "AthleticShoes_Brown",
+            "AthleticShoes_Green",
+            "AthleticShoes_Black"
+        ],
+        "Armbands": [],
+        "Backpacks": [
+            "TaloonBag_Blue",
+            "TaloonBag_Green",
+            "TaloonBag_Orange",
+            "TaloonBag_Violet"
+        ]
+    },
+    "EnableSpawnSelection": 1,
+    "SpawnOnTerritory": 0,
     "StartingGear": {
         "EnableStartingGear": 1,
         "ApplyEnergySources": 1,
         "SetRandomHealth": 1,
         "UpperGear": [
             {
-                "ClassName": "BandageDressing",
+                "ClassName": "Rag",
                 "Quantity": 4,
                 "Attachments": []
             },
@@ -205,49 +255,12 @@
                 "ClassName": "Apple",
                 "Quantity": -1,
                 "Attachments": []
-            },
-            {
-                "ClassName": "Chemlight_White",
-                "Quantity": -1,
-                "Attachments": []
-            },
-			{
-                "ClassName": "PetrolLighter",
-                "Quantity": -1,
-                "Attachments": []
             }
         ],
         "PantsGear": [],
-        "BackpackGear": [
-		},
-            {
-                "ClassName": "OrienteeringCompass",
-                "Quantity": -1,
-                "Attachments": []
-            },
-			{
-                "ClassName": "CanOpener",
-                "Quantity": -1,
-                "Attachments": []
-            },
-			{
-                "ClassName": "OrienteeringCompass",
-                "Quantity": -1,
-                "Attachments": []
-            },
-			{
-                "ClassName": "WoodAxe",
-                "Quantity": 4,
-                "Attachments": []
-            },
-			{
-                "ClassName": "SpaghettiCan",
-                "Quantity": -1,
-                "Attachments": []
-            }
-		],
+        "BackpackGear": [],
         "VestGear": [],
-		"PrimaryWeapon": {},
+        "PrimaryWeapon": {},
         "SecondaryWeapon": {}
     },
     "UseLoadouts": 0,
