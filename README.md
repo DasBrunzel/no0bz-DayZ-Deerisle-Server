@@ -6,18 +6,20 @@ Discord: https://discord.gg/JV2dCSKWws
 
 # Trader Status
 
-- Consumables ✅
-- Components ✅
-- Medicals ✅
-- Vehicle_Parts ✅
-- Weapons ✅
-- Vehicles ✅
-- Aircraft ❌
-- BlackMarket ❌
-- Boats ❌
-- Exchange ❌
-- Fishing ❌
-- Special ❌
+- Consumables :white_check_mark:
+- Components :white_check_mark:
+- Medicals :white_check_mark:
+- Vehicle_Parts :white_check_mark:
+- Weapons :white_check_mark:
+- Vehicles :white_check_mark:
+- Clothing :x: (50%)
+- Aircraft :x:
+- BlackMarket :x:
+- Boats :x:
+- Exchange :x:
+- Special :x: (25%)
+
+Vanilla/Expansion/CannabisPlus/Mightys Military Gear
 
 ------------
 
