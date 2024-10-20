@@ -143,50 +143,50 @@
     ],
     "StartingClothing": {
         "EnableCustomClothing": 1,
-        "SetRandomHealth": 1,
+        "SetRandomHealth": 0,
         "Headgear": [],
         "Glasses": [],
         "Masks": [],
         "Tops": [
-            "TShirt_Green",
-            "TShirt_Blue",
-            "TShirt_Black",
-            "TShirt_Beige",
-            "TShirt_Red",
-            "TShirt_OrangeWhiteStripes",
-            "TShirt_White",
-            "TShirt_Red",
-            "TShirt_Grey",
-            "TShirt_RedBlackStripes"
+            "Raincoat_Black",
+            "Raincoat_Blue",
+            "BomberJacket_Black",
+            "BomberJacket_Olive",
+            "HuntingJacket_Autumn",
+            "HuntingJacket_Brown",
+            "WoolCoat_Beige",
+            "WoolCoat_Beige",
+            "M65Jacket_Black ",
+            "M65Jacket_Khaki "
         ],
         "Vests": [],
         "Gloves": [],
         "Pants": [
-            "CanvasPants_Beige",
-            "CanvasPants_Blue",
-            "CanvasPants_Grey",
-            "CanvasPants_Red",
-            "CanvasPants_Violet",
-            "CanvasPantsMidi_Beige",
-            "CanvasPantsMidi_Blue",
-            "CanvasPantsMidi_Grey",
-            "CanvasPantsMidi_Red",
-            "CanvasPantsMidi_Violet"
+            "HunterPants_Autumn",
+            "HunterPants_Brown",
+            "CargoPants_Green",
+            "CargoPants_Beige",
+            "Jeans_Black",
+            "Jeans_Blue",
+            "TrackSuitPants_Black",
+            "TrackSuitPants_Red",
+            "MMG_combatpants_police",
+            "mmg_tactical_pants_atacs"
         ],
         "Belts": [],
         "Shoes": [
-            "AthleticShoes_Blue",
-            "AthleticShoes_Grey",
-            "AthleticShoes_Brown",
-            "AthleticShoes_Green",
-            "AthleticShoes_Black"
+            "MMG_boots_black",
+            "MMG_boots_dark_woodland",
+            "HikingBoots_Brown",
+            "CombatBoots_Beige",
+            "Sneakers_Black"
         ],
         "Armbands": [],
         "Backpacks": [
-            "TaloonBag_Blue",
-            "TaloonBag_Green",
+            "HuntingBag",
+            "DryBag_Yellow",
             "TaloonBag_Orange",
-            "TaloonBag_Violet"
+            "MountainBag_Orange"
         ]
     },
     "EnableSpawnSelection": 1,
@@ -197,7 +197,7 @@
         "SetRandomHealth": 1,
         "UpperGear": [
             {
-                "ClassName": "Rag",
+                "ClassName": "BandageDressing",
                 "Quantity": 4,
                 "Attachments": []
             },
@@ -210,12 +210,44 @@
                 "ClassName": "Chemlight_White",
                 "Quantity": -1,
                 "Attachments": []
+            },
+			{
+                "ClassName": "PetrolLighter",
+                "Quantity": -1,
+                "Attachments": []
             }
         ],
         "PantsGear": [],
-        "BackpackGear": [],
+        "BackpackGear": [
+		},
+            {
+                "ClassName": "OrienteeringCompass",
+                "Quantity": -1,
+                "Attachments": []
+            },
+			{
+                "ClassName": "CanOpener",
+                "Quantity": -1,
+                "Attachments": []
+            },
+			{
+                "ClassName": "OrienteeringCompass",
+                "Quantity": -1,
+                "Attachments": []
+            },
+			{
+                "ClassName": "WoodAxe",
+                "Quantity": 4,
+                "Attachments": []
+            },
+			{
+                "ClassName": "SpaghettiCan",
+                "Quantity": -1,
+                "Attachments": []
+            }
+		],
         "VestGear": [],
-        "PrimaryWeapon": {},
+		"PrimaryWeapon": {},
         "SecondaryWeapon": {}
     },
     "UseLoadouts": 0,
