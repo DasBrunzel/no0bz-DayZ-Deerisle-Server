@@ -1,0 +1,53 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Helmet Attachments",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "MMG_headphones_black",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_headphones_green",
+                "MMG_headphones_tan",
+				"MMG_headphones_ucp"
+            ]
+        },
+		        {
+            "ClassName": "MMG_ballistic_earcover_black",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_ballistic_earcover_green",
+                "MMG_ballistic_earcover_tan"
+            ]
+        },
+		        {
+            "ClassName": "MMG_tactical_visor_black",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MMG_tactical_visor_green",
+			"MMG_tactical_visor_tan"
+            ]
+        }
+    ]
+}

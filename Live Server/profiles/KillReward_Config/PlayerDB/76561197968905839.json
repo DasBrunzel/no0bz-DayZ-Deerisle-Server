@@ -1,0 +1,41 @@
+{
+    "PlayerID": "76561197968905839",
+    "PlayerName": "Brunzel",
+    "PlayerNotlisted": 0,
+    "KRPlayerPoints": -5590,
+    "PlayerDeaths": 0,
+    "Stats": [
+        {
+            "Name": "ZombieKill",
+            "Stat": 8
+        },
+        {
+            "Name": "longest_survivor_hit",
+            "Stat": 0
+        },
+        {
+            "Name": "PlayerSucide",
+            "Stat": 0
+        },
+        {
+            "Name": "StagKills",
+            "Stat": 0
+        },
+        {
+            "Name": "PigKills",
+            "Stat": 0
+        },
+        {
+            "Name": "BearKills",
+            "Stat": 0
+        },
+        {
+            "Name": "WolfKills",
+            "Stat": 0
+        },
+        {
+            "Name": "PlayerKill",
+            "Stat": 1
+        }
+    ]
+}

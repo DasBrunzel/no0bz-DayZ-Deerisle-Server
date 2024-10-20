@@ -1,0 +1,76 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Heavy Armour",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "MMG_MK_V_Armor_black",
+            "MaxPriceThreshold": 75000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_MK_V_Armor_green",
+                "MMG_MK_V_Armor_tan",
+				"MMG_MK_V_Armor_multicamblack",
+                "MMG_MK_V_Armor_multicam",
+				"MMG_MK_V_Armor_alpine",
+				"MMG_MK_V_Armor_dark_woodland",
+                "MMG_MK_V_Armor_erdl",
+                "MMG_MK_V_Armor_ucp",
+				"MMG_MK_V_Armor_multicam_tropic",
+				"MMG_MK_V_Armor_atacs"
+            ]
+        },
+        {
+            "ClassName": "MMG_mk5_utility_pouch_black",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_mk5_utility_pouch_green",
+                "MMG_mk5_utility_pouch_tan",
+				"MMG_mk5_utility_pouch_multicamblack",
+                "MMG_mk5_utility_pouch_multicam",
+				"MMG_mk5_utility_pouch_erdl",
+				"MMG_mk5_utility_pouch_alpine",
+                "MMG_mk5_utility_pouch_dark_woodland",
+                "MMG_mk5_utility_pouch_ucp",
+				"MMG_mk5_utility_pouch_multicam_tropic",
+				"MMG_mk5_utility_pouch_atacs"
+            ]
+        },
+        {
+            "ClassName": "MMG_mk5_grenade_pouch_black",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_mk5_grenade_pouch_green",
+                "MMG_mk5_grenade_pouch_tan",
+				"MMG_mk5_grenade_pouch_multicamblack",
+                "MMG_mk5_grenade_pouch_multicam",
+				"MMG_mk5_grenade_pouch_alpine",
+				"MMG_mk5_grenade_pouch_erdl",
+                "MMG_mk5_grenade_pouch_dark_woodland",
+                "MMG_mk5_grenade_pouch_ucp",
+				"MMG_mk5_grenade_pouch_multicam_tropic",
+				"MMG_mk5_grenade_pouch_atacs"
+            ]
+        }
+    ]
+}

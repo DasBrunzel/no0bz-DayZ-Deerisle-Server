@@ -1,0 +1,32 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Tactical Shirt",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "MMG_tactical_shirt_ucp",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_tactical_shirt_black",
+                "MMG_tactical_shirt_green",
+				"MMG_tactical_shirt_tan",
+                "MMG_tactical_shirt_multicamblack",
+				"MMG_tactical_shirt_erdl",
+				"MMG_tactical_shirt_dark_wl",
+                "MMG_tactical_shirt_alpine",
+                "MMG_tactical_shirt_multicam",
+				"MMG_tactical_shirt_multicam_tropic",
+				"MMG_tactical_shirt_atacs"
+            ]
+        }
+    ]
+}

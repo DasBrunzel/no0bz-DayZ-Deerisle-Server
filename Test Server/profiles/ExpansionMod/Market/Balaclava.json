@@ -1,0 +1,32 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Balaclava",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "MMG_balaclava_black",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_balaclava_olive",
+                "MMG_balaclava_tan",
+				"MMG_balaclava_erdl",
+                "MMG_balaclava_alpine",
+				"MMG_balaclava_multicamblack",
+				"MMG_balaclava_multicam",
+                "MMG_balaclava_dark_woodland",
+				"MMG_balaclava_ucp",
+				"MMG_balaclava_multicam_tropic",
+				"MMG_balaclava_atacs"
+            ]
+        }
+    ]
+}

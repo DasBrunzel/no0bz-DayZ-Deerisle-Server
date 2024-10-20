@@ -1,0 +1,21 @@
+{
+    "PlayerID": "76561198122245700",
+    "PlayerName": "Schmerzi",
+    "PlayerNotlisted": 0,
+    "KRPlayerPoints": 1285,
+    "PlayerDeaths": 0,
+    "Stats": [
+        {
+            "Name": "ZombieKill",
+            "Stat": 128
+        },
+        {
+            "Name": "longest_survivor_hit",
+            "Stat": 2
+        },
+        {
+            "Name": "BearKills",
+            "Stat": 1
+        }
+    ]
+}

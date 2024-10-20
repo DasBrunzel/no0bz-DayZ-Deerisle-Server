@@ -1,0 +1,67 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Growshop - Black Market",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "CP_CannabisBagSkunk",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1200,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"CP_CannabisBagBlue",
+				"CP_CannabisBagKush",
+				"CP_CannabisBagStardawg",
+				"CP_CannabisBagFuture",
+				"CP_CannabisBagS1",
+				"CP_CannabisBagNomad",
+				"CP_CannabisBagBlackFrost"
+			]
+        },
+		{
+            "ClassName": "CP_CannabisBrickSkunk",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1200,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"CP_CannabisBrickBlue",
+				"CP_CannabisBrickKush",
+				"CP_CannabisBrickStardawg",
+				"CP_CannabisBrickFuture",
+				"CP_CannabisBrickS1",
+				"CP_CannabisBrickNomad",
+				"CP_CannabisBrickBlackFrost"
+			]
+        },
+		{
+            "ClassName": "CP_CannabisSeedsPackSkunk",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"CP_CannabisSeedsPackBlue",
+				"CP_CannabisSeedsPackKush",
+				"CP_CannabisSeedsPackStardawg",
+				"CP_CannabisSeedsPackFuture",
+				"CP_CannabisSeedsPackS1",
+				"CP_CannabisSeedsPackNomad",
+				"CP_CannabisSeedsPackBlackFrost"
+			]
+        }
+	]
+}

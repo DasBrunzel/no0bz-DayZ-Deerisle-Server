@@ -1,0 +1,34 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Facemask",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "MMG_facemask_green",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_facemask_black",
+                "MMG_facemask_tan",
+				"MMG_facemask_alpine",
+                "MMG_facemask_erdl",
+				"MMG_facemask_multicamblack",
+				"MMG_facemask_multicam",
+                "MMG_facemask_dark_woodland",
+                "MMG_facemask_ucp",
+				"MMG_facemask_multicam_tropic",
+				"MMG_facemask_atacs",
+				"MMG_facemask_skull",
+				"MMG_facemask_joker"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "PlayerID": "76561197970659487",
+    "PlayerName": "Tox",
+    "PlayerNotlisted": 0,
+    "KRPlayerPoints": -410,
+    "PlayerDeaths": 0,
+    "Stats": [
+        {
+            "Name": "ZombieKill",
+            "Stat": 0
+        },
+        {
+            "Name": "PlayerSucide",
+            "Stat": 0
+        }
+    ]
+}

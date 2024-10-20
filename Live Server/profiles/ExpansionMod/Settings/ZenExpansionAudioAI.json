@@ -1,0 +1,12 @@
+{
+    "CONFIG_VERSION": "1",
+    "DebugOn": 0,
+    "GenericAudioTypes": [
+        "ExpansionP2PTrader",
+        "ExpansionTrader",
+        "Sanctuary_Guards"
+    ],
+    "GenericThreatTypes": [
+        "Bunker_Bandits_Level01"
+    ]
+}
