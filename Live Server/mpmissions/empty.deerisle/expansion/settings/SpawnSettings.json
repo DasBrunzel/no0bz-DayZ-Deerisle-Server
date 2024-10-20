@@ -205,15 +205,26 @@
                 "ClassName": "Apple",
                 "Quantity": -1,
                 "Attachments": []
+            }
+        ],
+        "PantsGear": [],
+		"BackpackGear": [
+            {
+                "ClassName": "Rag",
+                "Quantity": 4,
+                "Attachments": []
             },
             {
-                "ClassName": "Chemlight_White",
+                "ClassName": "WaterBottle",
+                "Quantity": -1,
+                "Attachments": []
+            },
+            {
+                "ClassName": "Hatchet",
                 "Quantity": -1,
                 "Attachments": []
             }
         ],
-        "PantsGear": [],
-        "BackpackGear": [],
         "VestGear": [],
         "PrimaryWeapon": {},
         "SecondaryWeapon": {}
