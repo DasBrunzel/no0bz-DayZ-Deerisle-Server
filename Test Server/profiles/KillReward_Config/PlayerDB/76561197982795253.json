@@ -1,0 +1,25 @@
+{
+    "PlayerID": "76561197982795253",
+    "PlayerName": "DerKampfkoch",
+    "PlayerNotlisted": 0,
+    "KRPlayerPoints": 170,
+    "PlayerDeaths": 0,
+    "Stats": [
+        {
+            "Name": "ZombieKill",
+            "Stat": 49
+        },
+        {
+            "Name": "longest_survivor_hit",
+            "Stat": 0
+        },
+        {
+            "Name": "PlayerSucide",
+            "Stat": 0
+        },
+        {
+            "Name": "WolfKills",
+            "Stat": 2
+        }
+    ]
+}

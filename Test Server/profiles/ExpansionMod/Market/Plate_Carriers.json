@@ -1,0 +1,32 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Plate Carriers",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "MMG_JPC_Vest_Black",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_JPC_Vest_olive",
+                "MMG_JPC_Vest_tan",
+				"MMG_JPC_Vest_multicam",
+                "MMG_JPC_Vest_alpine",
+				"MMG_JPC_Vest_erdl",
+                "MMG_JPC_Vest_multicamblack",
+				"MMG_JPC_Vest_multicam_tropic",
+                "MMG_JPC_Vest_ucp",
+				"MMG_JPC_Vest_dark_woodland",
+                "MMG_JPC_Vest_atacs"
+            ]
+        }
+    ]
+}

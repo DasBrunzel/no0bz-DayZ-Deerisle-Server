@@ -1,0 +1,48 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_MEDICALS",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 0,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Medic Box",
+    "Currencies": [
+        "Money_Ruble1",
+        "Money_Ruble2",
+        "Money_Ruble5",
+        "Money_Ruble10",
+        "Money_Ruble50",
+        "Money_Ruble100",
+		"Money_Ruble200",
+        "Money_Ruble500",
+        "Money_Ruble1000",
+        "Money_Ruble2000",
+        "Money_Ruble5000"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "Medical"
+    ],
+    "Items": {
+        "bandagedressing": 1,
+        "disinfectantalcohol": 1,
+        "purificationtablets": 1,
+        "charcoaltablets": 1,
+        "painkillertablets": 1,
+        "heatpack": 1,
+        "thermometer": 1,
+        "bloodtestkit": 1,
+        "morphine": 1,
+        "anticheminjector": 1,
+        "vitaminbottle": 1,
+        "salinebag": 1,
+        "epinephrine": 1,
+        "bloodbagempty": 1,
+        "firstaidkit": 1,
+        "tetracyclineantibiotics": 1,
+        "iodinetincture": 1,
+        "startkitiv": 1,
+        "disinfectantspray": 1
+    }
+}

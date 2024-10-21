@@ -1,0 +1,32 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Operator Shirt",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "MMG_operatorshirt_black",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_operatorshirt_green",
+                "MMG_operatorshirt_tan",
+				"MMG_operatorshirt_erdl",
+                "MMG_operatorshirt_multicamblack",
+				"MMG_operatorshirt_multicam",
+				"MMG_operatorshirt_dark_woodland",
+                "MMG_operatorshirt_alpine",
+                "MMG_operatorshirt_ucp",
+				"MMG_operatorshirt_multicam_tropic",
+				"MMG_operatorshirt_atacs"
+            ]
+        }
+    ]
+}
