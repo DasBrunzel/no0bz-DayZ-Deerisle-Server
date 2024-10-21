@@ -1,11 +1,11 @@
 {
     "m_Version": 12,
-    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_AIRCRAFT",
+    "DisplayName": "Foxy Radio",
     "MinRequiredReputation": 0,
     "MaxRequiredReputation": 0,
     "RequiredFaction": "",
     "RequiredCompletedQuestID": -1,
-    "TraderIcon": "Helicopter",
+    "TraderIcon": "Radio",
     "Currencies": [
         "Money_Ruble1",
         "Money_Ruble2",
