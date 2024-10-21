@@ -1265,7 +1265,7 @@
 			]
 		},
 		{
-			"ClassName": "Mixtape_Puffi",
+			"ClassName": "Mixtape_CyanideMG",
 			"MaxPriceThreshold": 250,
 			"MinPriceThreshold": 250,
 			"SellPricePercent": 100,
@@ -1273,9 +1273,7 @@
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
 			"SpawnAttachments": [],
-			"Variants": [
-				"Mixtape_CyanideMG"
-			]
+			"Variants": []
 		},
 		{
 			"ClassName": "Cassette_ArcticMonkeys_DoIWannaKnow",

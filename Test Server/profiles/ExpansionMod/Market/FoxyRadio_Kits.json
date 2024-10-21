@@ -1,7 +1,7 @@
 {
     "m_Version": 12,
     "DisplayName": "FoxyRadio Kits"
-    "Icon": "Deliver",
+    "Icon": "Info",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
     "InitStockPercent": 75.0,
@@ -83,7 +83,7 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		        {
+		{
             "ClassName": "FoXyRadio_Laptop_DigDig_Kit",
             "MaxPriceThreshold": 50000,
             "MinPriceThreshold": 10000,
