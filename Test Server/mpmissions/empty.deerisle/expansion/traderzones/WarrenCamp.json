@@ -2134,6 +2134,10 @@
         "hatchback_02_door_1_2": 75,
         "hikingjacket_blue": 75,
         "armband_expansion_southkorea": 187,
-        "platecarrierholster_black": 75
+        "platecarrierholster_black": 75,
+		"HydraulicJack": 75,
+		"sewingkit": 75,
+		"leathersewingkit": 75,
+		"weaponcleaningkit": 75
     }
 }
