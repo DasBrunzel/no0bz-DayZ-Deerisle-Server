@@ -22,11 +22,7 @@
     "DisplayCurrencyValue": 1,
     "DisplayCurrencyName": "",
     "Categories": [
-		"FoxyRadio Kits",
-		"FoxyRadio Walkman",
-		"FoxyRadio Battery",
-		"FoxyRadio Extra",
-        "FoxyRadio Cassettes"
+		"FoxyRadio1"
     ],
     "Items": {
 		"FoXyRadio_Kit": 75,
