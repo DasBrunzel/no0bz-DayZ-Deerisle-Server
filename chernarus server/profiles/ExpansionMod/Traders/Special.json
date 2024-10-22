@@ -22,7 +22,9 @@
     "DisplayCurrencyValue": 1,
     "DisplayCurrencyName": "Ruble",
     "Categories": [
-        "Explosives_And_Grenades"
+        "Explosives_And_Grenades",
+		"MMG Gear",
+		"MMG Gear Patches"
     ],
     "Items": {
         "expansionammorpg": 1,
