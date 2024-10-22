@@ -69,4 +69,48 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="mmg_types_ucp.xml" type="types" />
 		<file name="mmg_types_ADMINGEAR.xml" type="types" />
 	</ce>
+	<ce folder="FoxyRadio">
+		<file name="BolbiMusicPackCassettes.xml" type="types" />
+		<file name="BolbiMusicPackCDs.xml" type="types" />
+		<file name="BolbiMusicPackSDCards.xml" type="types" />
+		<file name="BolbiMusicPackUSBs.xml" type="types" />
+		<file name="DoVaI_CassettesCassettes.xml" type="types" />
+		<file name="DoVaI_CassettesSDCards.xml" type="types" />
+		<file name="FoXyRadio_Albums_Pack_01Cassettes.xml" type="types" />
+		<file name="FoXyRadio_Albums_Pack_01CDs.xml" type="types" />
+		<file name="FoXyRadio_Albums_Pack_01SDCards.xml" type="types" />
+		<file name="FoXyRadio_Albums_Pack_01TraderRadios.xml" type="types" />
+		<file name="FoXyRadio_Albums_Pack_01USBs.xml" type="types" />
+		<file name="FoXyRadio_Christmas_Pack_01Cassettes.xml" type="types" />
+		<file name="FoXyRadio_Christmas_Pack_01CDs.xml" type="types" />
+		<file name="FoXyRadio_Christmas_Pack_01SDCards.xml" type="types" />
+		<file name="FoXyRadio_Christmas_Pack_01USBs.xml" type="types" />
+		<file name="FoXyRadio_RadioStations_Pack_01Cassettes.xml" type="types" />
+		<file name="FoXyRadio_RadioStations_Pack_01CDs.xml" type="types" />
+		<file name="FoXyRadio_RadioStations_Pack_01SDCards.xml" type="types" />
+		<file name="FoXyRadio_RadioStations_Pack_01TraderRadios.xml" type="types" />
+		<file name="FoXyRadio_RadioStations_Pack_01USBs.xml" type="types" />
+		<file name="FoXyRadio_Singles_Pack_01Cassettes.xml" type="types" />
+		<file name="FoXyRadio_Singles_Pack_01CDs.xml" type="types" />
+		<file name="FoXyRadio_Singles_Pack_01SDCards.xml" type="types" />
+		<file name="FoXyRadio_Singles_Pack_01USBs.xml" type="types" />
+		<file name="FoXyRadio_Singles_Pack_02Cassettes.xml" type="types" />
+		<file name="FoXyRadio_Singles_Pack_02CDs.xml" type="types" />
+		<file name="FoXyRadio_Singles_Pack_02SDCards.xml" type="types" />
+		<file name="FoXyRadio_Singles_Pack_02USBs.xml" type="types" />
+		<file name="FoXyRadiotypes.xml" type="types" />
+		<file name="MoreCassettesCassettes.xml" type="types" />
+		<file name="MoreCassettesCDs.xml" type="types" />
+		<file name="MoreCassettesSDCards.xml" type="types" />
+		<file name="MoreCassettesUSBs.xml" type="types" />
+		<file name="MoreCassettesWorldTourCassettes.xml" type="types" />
+		<file name="MoreCassettesWorldTourCDs.xml" type="types" />
+		<file name="MoreCassettesWorldTourSDCards.xml" type="types" />
+		<file name="MoreCassettesWorldTourUSBs.xml" type="types" />
+		<file name="PuffisMusicPackCassettes.xml" type="types" />
+		<file name="PuffisMusicPackSDCards.xml" type="types" />
+		<file name="TROM_Cassettes.xml" type="types" />
+		<file name="TROM_CDs.xml" type="types" />
+		<file name="TROM_SDCards.xml" type="types" />
+		<file name="TROM_USBs.xml" type="types" />
 </economycore>
