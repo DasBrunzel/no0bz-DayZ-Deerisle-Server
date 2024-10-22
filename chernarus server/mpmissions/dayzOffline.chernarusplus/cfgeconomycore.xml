@@ -40,4 +40,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="expansion_spawnabletypes.xml" type="spawnabletypes" />
 		<file name="expansion_events.xml" type="events" />
 	</ce>
+	<ce folder="cannabisplus">
+		<file name="cannabisplus_types.xml" type="types" />
+	</ce>
 </economycore>
