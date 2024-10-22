@@ -113,4 +113,11 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="TROM_CDs.xml" type="types" />
 		<file name="TROM_SDCards.xml" type="types" />
 		<file name="TROM_USBs.xml" type="types" />
+	</ce>
+	<ce folder="Paragontypes">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="RAGtypes">
+		<file name="rag_baseitems.xml" type="types" />
+	</ce>
 </economycore>
