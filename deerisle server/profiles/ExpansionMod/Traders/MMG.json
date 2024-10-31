@@ -1,6 +1,6 @@
 {
     "m_Version": 12,
-    "DisplayName": " Trader",
+    "DisplayName": "Special Trader",
     "MinRequiredReputation": 0,
     "MaxRequiredReputation": 0,
     "RequiredFaction": "",
@@ -22,7 +22,8 @@
     "DisplayCurrencyValue": 1,
     "DisplayCurrencyName": "",
     "Categories": [
-        "MMG Gear"
+        "MMG Gear",
+		"Snafu_Weapons"
     ],
     "Items": {
         	"MMG_patch_fabric_511": 75,
