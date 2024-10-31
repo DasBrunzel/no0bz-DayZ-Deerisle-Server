@@ -401,6 +401,38 @@
                 "Kamaz_fuelPump"
             ],
             "Variants": []
-        }
+        },
+        {
+            "ClassName": "Ford_flatbed",
+            "MaxPriceThreshold": 60000,
+            "MinPriceThreshold": 30000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 3,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "SparkPlug",
+                "TruckBattery",
+                "CarRadiator",
+                "HeadlightH7",
+                "HeadlightH7",
+                "Ford_flatbed_doors_driver",
+                "Ford_flatbed_doors_codriver",
+                "Ford_flatbed_doors_trunk",
+				"Ford_flatbed_doors_hood",
+                "Ford_flatbed_wheel",
+                "Ford_flatbed_wheel",
+                "Ford_flatbed_wheel",
+                "Ford_flatbed_WheelDouble",
+                "Ford_flatbed_WheelDouble",
+                "Ford_flatbed_WheelDouble",
+                "Ford_flatbed_WheelDouble"
+            ],
+            "Variants": [
+                "Ford_flatbed_green",
+                "Ford_flatbed_blue",
+                "Ford_flatbed_red"
+            ]
+        },
     ]
 }

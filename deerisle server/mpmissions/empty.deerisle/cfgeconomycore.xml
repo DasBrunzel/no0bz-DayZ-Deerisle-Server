@@ -103,4 +103,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="Portable9vBatteryCharger">
 		<file name="types.xml" type="types" />
 	</ce>
+	<ce folder="Towingtruck">
+		<file name="Towing-truck_Types.xml" type="types" />
+	</ce>
 </economycore>
