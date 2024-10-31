@@ -1,0 +1,142 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Foxy Radio",
+    "Icon": "Radio",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "FoXyRadio_Walkman",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FoXyRadio_Walkman_Blue",
+				"FoXyRadio_Walkman_Cyan",
+				"FoXyRadio_Walkman_Green",
+				"FoXyRadio_Walkman_Grey",
+				"FoXyRadio_Walkman_Lime",
+				"FoXyRadio_Walkman_Orange",
+				"FoXyRadio_Walkman_Pink",
+				"FoXyRadio_Walkman_Purple",
+				"FoXyRadio_Walkman_Red",
+				"FoXyRadio_Walkman_Yellow"
+			]
+        },
+		{
+            "ClassName": "FoXyRadio_Walkman_Simple_AA",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FoXyRadio_Walkman_Simple_AA_Blue",
+				"FoXyRadio_Walkman_Simple_AA_Cyan",
+				"FoXyRadio_Walkman_Simple_AA_Green",
+				"FoXyRadio_Walkman_Simple_AA_Grey",
+				"FoXyRadio_Walkman_Simple_AA_Lime",
+				"FoXyRadio_Walkman_Simple_AA_Orange",
+				"FoXyRadio_Walkman_Simple_AA_Pink",
+				"FoXyRadio_Walkman_Simple_AA_Purple",
+				"FoXyRadio_Walkman_Simple_AA_Red",
+				"FoXyRadio_Walkman_Simple_AA_Yellow"
+			]
+        },
+		{
+            "ClassName": "FoXyRadio_Walkman_Simple_AAx2",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FoXyRadio_Walkman_Simple_AAx2_Blue",
+				"FoXyRadio_Walkman_Simple_AAx2_Cyan",
+				"FoXyRadio_Walkman_Simple_AAx2_Green",
+				"FoXyRadio_Walkman_Simple_AAx2_Grey",
+				"FoXyRadio_Walkman_Simple_AAx2_Lime",
+				"FoXyRadio_Walkman_Simple_AAx2_Orange",
+				"FoXyRadio_Walkman_Simple_AAx2_Pink",
+				"FoXyRadio_Walkman_Simple_AAx2_Purple",
+				"FoXyRadio_Walkman_Simple_AAx2_Red",
+				"FoXyRadio_Walkman_Simple_AAx2_Yellow"
+			]
+        },
+		{
+            "ClassName": "FoXyRadio_Walkman_Simple_AAx4",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FoXyRadio_Walkman_Simple_AAx4_Blue",
+				"FoXyRadio_Walkman_Simple_AAx4_Cyan",
+				"FoXyRadio_Walkman_Simple_AAx4_Green",
+				"FoXyRadio_Walkman_Simple_AAx4_Grey",
+				"FoXyRadio_Walkman_Simple_AAx4_Lime",
+				"FoXyRadio_Walkman_Simple_AAx4_Orange",
+				"FoXyRadio_Walkman_Simple_AAx4_Pink",
+				"FoXyRadio_Walkman_Simple_AAx4_Purple",
+				"FoXyRadio_Walkman_Simple_AAx4_Red",
+				"FoXyRadio_Walkman_Simple_AAx4_Yellow"
+			]
+        },
+		{
+            "ClassName": "FoXyRadio_Walkman_9V",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FoXyRadio_Walkman_9V_Blue",
+				"FoXyRadio_Walkman_9V_Cyan",
+				"FoXyRadio_Walkman_9V_Green",
+				"FoXyRadio_Walkman_9V_Grey",
+				"FoXyRadio_Walkman_9V_Lime",
+				"FoXyRadio_Walkman_9V_Orange",
+				"FoXyRadio_Walkman_9V_Pink",
+				"FoXyRadio_Walkman_9V_Purple",
+				"FoXyRadio_Walkman_9V_Red",
+				"FoXyRadio_Walkman_9V_Yellow"
+			]
+        },
+		{
+            "ClassName": "FoXyRadio_Walkman_Simple_9V",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FoXyRadio_Walkman_Simple_9V_Blue",
+				"FoXyRadio_Walkman_Simple_9V_Cyan",
+				"FoXyRadio_Walkman_Simple_9V_Green",
+				"FoXyRadio_Walkman_Simple_9V_Grey",
+				"FoXyRadio_Walkman_Simple_9V_Lime",
+				"FoXyRadio_Walkman_Simple_9V_Orange",
+				"FoXyRadio_Walkman_Simple_9V_Pink",
+				"FoXyRadio_Walkman_Simple_9V_Purple",
+				"FoXyRadio_Walkman_Simple_9V_Red",
+				"FoXyRadio_Walkman_Simple_9V_Yellow"
+			]
+        }
+    ]
+}

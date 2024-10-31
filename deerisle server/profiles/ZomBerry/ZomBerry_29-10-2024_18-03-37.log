@@ -1,0 +1,366 @@
+---------------------------------------------
+ZomBerry v0.6.4 log started at 29.10.2024 18:03:37
+
+29.10.2024 18:03:37 [ZomBerryCmdAPI]: INFO: Added category OnTarget
+29.10.2024 18:03:37 [ZomBerryCmdAPI]: INFO: Added function TPCur to category OnTarget
+29.10.2024 18:03:37 [ZomBerryCmdAPI]: INFO: Added function TPForward to category OnTarget
+29.10.2024 18:03:37 [ZomBerryCmdAPI]: INFO: Added function TPToTarget to category OnTarget
+29.10.2024 18:03:37 [ZomBerryCmdAPI]: INFO: Added function TPToAdmin to category OnTarget
+29.10.2024 18:03:37 [ZomBerryCmdAPI]: INFO: Added function HealTarget to category OnTarget
+29.10.2024 18:03:37 [ZomBerryCmdAPI]: INFO: Added function HealTargetPart to category OnTarget
+29.10.2024 18:03:37 [ZomBerryCmdAPI]: INFO: Added function GodTarget to category OnTarget
+29.10.2024 18:03:37 [ZomBerryCmdAPI]: INFO: Added function RepairTargetHands to category OnTarget
+29.10.2024 18:03:37 [ZomBerryCmdAPI]: INFO: Added function RefuelAndRepair to category OnTarget
+29.10.2024 18:03:37 [ZomBerryCmdAPI]: INFO: Added category ==
+29.10.2024 18:03:37 [ZomBerryCmdAPI]: INFO: Added function KillTarget to category ==
+29.10.2024 18:03:37 [ZomBerryCmdAPI]: INFO: Added function BiteTarget to category ==
+29.10.2024 18:03:37 [ZomBerryCmdAPI]: INFO: Added function StripTarget to category ==
+29.10.2024 18:03:37 [ZomBerryCmdAPI]: INFO: Added function RejectBellyTarget to category ==
+29.10.2024 18:03:37 [ZomBerryCmdAPI]: INFO: Added function PsycoTarget to category ==
+29.10.2024 18:03:37 [ZomBerryCmdAPI]: INFO: Added function SneezeTarget to category ==
+29.10.2024 18:03:37 [ZomBerryCmdAPI]: INFO: Added function SetHealthTarget to category ==
+29.10.2024 18:03:37 [ZomBerryCmdAPI]: INFO: Added function SetBloodTarget to category ==
+29.10.2024 18:03:37 [ZomBerryCmdAPI]: INFO: Added category OnServer
+29.10.2024 18:03:37 [ZomBerryCmdAPI]: INFO: Added function FreeCamAdm to category OnServer
+29.10.2024 18:03:37 [ZomBerryCmdAPI]: INFO: Added function TimeDay to category OnServer
+29.10.2024 18:03:37 [ZomBerryCmdAPI]: INFO: Added function TimeNight to category OnServer
+29.10.2024 18:03:37 [ZomBerryCmdAPI]: INFO: Added function SetTime to category OnServer
+29.10.2024 18:03:37 [ZomBerryCmdAPI]: INFO: Added function SetDate to category OnServer
+29.10.2024 18:03:37 [ZomBerryCmdAPI]: INFO: Added function SetWeather to category OnServer
+29.10.2024 18:03:37 [ZomBerryCmdAPI]: INFO: Added function DeleteObj to category OnServer
+29.10.2024 18:03:37 [ZomBerryConfig]: INFO: Using admins.cfg from Profile directory
+29.10.2024 18:03:37 [ZomBerryDbg]: Server ready, loading admin list from: $profile:ZomBerry\admins.cfg
+29.10.2024 18:03:37 [ZomBerryConfig]: admins.cfg loaded
+29.10.2024 18:03:37 [ZomBerryConfig]: Added admin: 76561197968905839
+29.10.2024 18:03:37 [ZomBerryConfig]: Added admin: 76561197961238485
+29.10.2024 18:04:45 [ZomBerryDbg]: Auth respond to admin Brunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=)
+29.10.2024 22:16:29 [ZomBerryDbg]: Auth Request ignored (not an admin) Bavasa806 (xZCvs13XylIxqemRmhh2E2Ct07K1e2GjrLu0tC9yF5U=)
+30.10.2024 21:28:33 [ZomBerryDbg]: Auth respond to admin DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=)
+30.10.2024 21:28:58 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 21:28:58 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 21:29:05 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) executed TimeDay
+30.10.2024 21:29:29 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 21:29:29 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 21:29:36 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) executed HealTargetPart
+30.10.2024 21:29:43 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 21:29:43 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 21:29:45 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) executed SetWeather
+30.10.2024 21:30:35 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 21:30:35 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 21:31:03 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) teleported to position <5640.733887, 28.658152, 5375.499023>
+30.10.2024 21:32:41 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 21:32:41 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 21:32:42 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) executed TimeNight
+30.10.2024 21:35:18 [ZomBerryDbg]: Auth Request ignored (not an admin) Blue (6tDGfCLyIJ2cGwmfsPPpyKsoJriZzV2e2gSbcGa-IKM=)
+30.10.2024 21:39:39 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 21:39:39 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 21:39:43 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) executed SetWeather
+30.10.2024 21:42:17 [ZomBerryDbg]: Auth respond to admin Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=)
+30.10.2024 21:42:39 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 21:42:39 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 21:42:54 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) executed TPToAdmin on target Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=)
+30.10.2024 21:43:23 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - player list sync
+30.10.2024 21:43:23 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - function list sync
+30.10.2024 21:43:33 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 21:43:33 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 21:43:36 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) executed TimeDay on target Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=)
+30.10.2024 21:43:38 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) executed SetWeather on target Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=)
+30.10.2024 21:43:39 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) executed SetWeather on target Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=)
+30.10.2024 21:43:47 [ZomBerryDbg]: Auth Request ignored (not an admin) Blue (6tDGfCLyIJ2cGwmfsPPpyKsoJriZzV2e2gSbcGa-IKM=)
+30.10.2024 21:44:12 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 21:44:12 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 21:44:21 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) executed TPToAdmin on target Blue (6tDGfCLyIJ2cGwmfsPPpyKsoJriZzV2e2gSbcGa-IKM=)
+30.10.2024 21:44:26 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) executed HealTargetPart on target Blue (6tDGfCLyIJ2cGwmfsPPpyKsoJriZzV2e2gSbcGa-IKM=)
+30.10.2024 21:44:50 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - player list sync
+30.10.2024 21:44:50 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - function list sync
+30.10.2024 21:45:03 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) spawned Hammer at <5671.731445, 32.378059, 5264.603516>
+30.10.2024 21:45:19 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) spawned ExpansionWall6x3 at <5671.690918, 32.387249, 5264.608398>
+30.10.2024 21:45:44 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - player list sync
+30.10.2024 21:45:44 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - function list sync
+30.10.2024 21:46:02 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - player list sync
+30.10.2024 21:46:02 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - function list sync
+30.10.2024 21:46:06 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) executed DeleteObj
+30.10.2024 21:46:07 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) executed DeleteObj
+30.10.2024 21:46:07 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) executed DeleteObj
+30.10.2024 21:46:10 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) executed DeleteObj
+30.10.2024 21:46:10 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) executed DeleteObj
+30.10.2024 21:46:26 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - player list sync
+30.10.2024 21:46:26 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - function list sync
+30.10.2024 21:46:39 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) spawned ExpansionWall6x3KitPlacing at <5669.470215, 32.421616, 5265.909180>
+30.10.2024 21:46:55 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - player list sync
+30.10.2024 21:46:55 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - function list sync
+30.10.2024 21:46:57 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) executed DeleteObj
+30.10.2024 21:46:58 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 21:46:58 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 21:46:58 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) executed DeleteObj
+30.10.2024 21:46:59 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) executed DeleteObj
+30.10.2024 21:46:59 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) executed DeleteObj
+30.10.2024 21:47:03 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) executed DeleteObj
+30.10.2024 21:47:03 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) executed DeleteObj
+30.10.2024 21:47:04 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) executed DeleteObj
+30.10.2024 21:47:04 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) executed DeleteObj
+30.10.2024 21:47:04 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) executed DeleteObj
+30.10.2024 21:52:44 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - player list sync
+30.10.2024 21:52:44 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - function list sync
+30.10.2024 21:52:48 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 21:52:48 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 21:53:00 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) teleported to position <2924.182373, 20.867842, 8688.268555>
+30.10.2024 21:53:22 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 21:53:22 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 21:53:30 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) teleported to position <2985.291504, 11.450000, 8670.379883>
+30.10.2024 21:58:23 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 21:58:23 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 21:58:32 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned M4A1 at <2999.170898, 11.450000, 8673.941406>
+30.10.2024 21:58:41 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 21:58:41 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 21:58:50 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned AK74_Pink at <3003.104736, 11.449993, 8674.223633>
+30.10.2024 21:58:50 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned AK74_Pink at <3003.104736, 11.449993, 8674.223633>
+30.10.2024 21:58:56 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 21:58:56 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 21:58:57 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) executed DeleteObj on target Blue (6tDGfCLyIJ2cGwmfsPPpyKsoJriZzV2e2gSbcGa-IKM=)
+30.10.2024 21:58:58 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) executed DeleteObj on target Blue (6tDGfCLyIJ2cGwmfsPPpyKsoJriZzV2e2gSbcGa-IKM=)
+30.10.2024 21:58:59 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) executed DeleteObj on target Blue (6tDGfCLyIJ2cGwmfsPPpyKsoJriZzV2e2gSbcGa-IKM=)
+30.10.2024 21:58:59 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) executed DeleteObj on target Blue (6tDGfCLyIJ2cGwmfsPPpyKsoJriZzV2e2gSbcGa-IKM=)
+30.10.2024 21:58:59 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) executed DeleteObj on target Blue (6tDGfCLyIJ2cGwmfsPPpyKsoJriZzV2e2gSbcGa-IKM=)
+30.10.2024 21:59:28 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned M4A1_Pink at <3003.418457, 11.450002, 8674.285156>
+30.10.2024 21:59:30 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned M4_MPHndgrd_Green at <3003.373291, 11.632417, 8674.213867>
+30.10.2024 21:59:35 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned M4_RISHndgrd_Green at <3003.351563, 11.720318, 8674.180664>
+30.10.2024 21:59:38 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned M4_CQBBttstck_Green at <3003.333252, 11.794762, 8674.150391>
+30.10.2024 21:59:42 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned M4_T3NRDSOptic at <3003.318848, 11.850821, 8674.127930>
+30.10.2024 22:00:05 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 22:00:05 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 22:00:19 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned Mag_STANAGDrum_60Rnd_CFTools at <3009.037598, 11.450002, 8689.134766>
+30.10.2024 22:00:34 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 22:00:34 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 22:00:41 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned Mag_STANAG_60Rnd at <3007.850830, 11.450001, 8690.377930>
+30.10.2024 22:00:41 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned Mag_STANAG_60Rnd at <3007.864990, 11.483158, 8690.332031>
+30.10.2024 22:00:41 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned Mag_STANAG_60Rnd at <3007.878906, 11.516525, 8690.287109>
+30.10.2024 22:00:42 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned Mag_STANAG_60Rnd at <3007.890625, 11.543696, 8690.249023>
+30.10.2024 22:00:42 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned Mag_STANAG_60Rnd at <3007.911865, 11.594204, 8690.179688>
+30.10.2024 22:00:42 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned Mag_STANAG_60Rnd at <3007.923096, 11.620016, 8690.144531>
+30.10.2024 22:01:12 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 22:01:12 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 22:01:16 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) executed TPToTarget on target Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=)
+30.10.2024 22:01:16 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) executed TPToTarget on target Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=)
+30.10.2024 22:02:56 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 22:02:56 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 22:03:00 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) executed HealTargetPart on target Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=)
+30.10.2024 22:03:01 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) executed HealTarget on target Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=)
+30.10.2024 22:04:19 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 22:04:19 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 22:04:37 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - player list sync
+30.10.2024 22:04:37 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - function list sync
+30.10.2024 22:04:43 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) teleported to position <13205.999023, 34.315002, 3474.291992>
+30.10.2024 22:04:50 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) executed TPToAdmin on target Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=)
+30.10.2024 22:05:02 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 22:05:02 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 22:05:12 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned CivilianSedan_Police at <13177.744141, 34.042244, 3502.081543>
+30.10.2024 22:05:18 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 22:05:18 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 22:05:31 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - player list sync
+30.10.2024 22:05:31 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - function list sync
+30.10.2024 22:05:36 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 22:05:36 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 22:05:42 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) executed RefuelAndRepair on target Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=)
+30.10.2024 22:06:14 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - player list sync
+30.10.2024 22:06:14 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - function list sync
+30.10.2024 22:06:20 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) executed RepairTargetHands
+30.10.2024 22:07:05 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - player list sync
+30.10.2024 22:07:05 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - function list sync
+30.10.2024 22:07:30 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) executed GodTarget
+30.10.2024 22:07:36 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) executed GodTarget
+30.10.2024 22:08:21 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 22:08:21 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 22:08:23 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) executed RefuelAndRepair on target Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=)
+30.10.2024 22:08:34 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 22:08:34 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 22:08:37 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) executed RefuelAndRepair on target Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=)
+30.10.2024 22:09:00 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 22:09:00 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 22:09:12 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionVodnik at <13118.429688, 42.125259, 2691.286621>
+30.10.2024 22:09:13 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionVodnik at <13119.499023, 42.861301, 2690.665527>
+30.10.2024 22:09:21 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 22:09:21 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 22:09:26 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) executed GodTarget
+30.10.2024 22:09:31 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) executed GodTarget on target Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=)
+30.10.2024 22:09:33 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 22:09:33 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 22:09:36 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) executed RefuelAndRepair on target Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=)
+30.10.2024 22:10:45 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - player list sync
+30.10.2024 22:10:45 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - function list sync
+30.10.2024 22:17:29 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - player list sync
+30.10.2024 22:17:29 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - function list sync
+30.10.2024 22:17:39 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) spawned ESP_G36C at <12818.151367, 42.920048, 2339.465088>
+30.10.2024 22:17:42 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) spawned Mag_Expansion_G36_30Rnd at <12818.183594, 42.980980, 2339.439209>
+30.10.2024 22:17:42 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) spawned Expansion_G36 at <12818.268555, 43.137680, 2339.372803>
+30.10.2024 22:18:16 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 22:18:16 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 22:18:17 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) executed TimeDay on target Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=)
+30.10.2024 22:18:38 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - player list sync
+30.10.2024 22:18:38 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - function list sync
+30.10.2024 22:18:50 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) spawned Mag_Expansion_G36_30Rnd at <12912.132813, 42.960003, 2381.504883>
+30.10.2024 22:18:51 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) spawned Mag_Expansion_G36_30Rnd at <12912.013672, 42.981659, 2381.572266>
+30.10.2024 22:18:51 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) spawned Mag_Expansion_G36_30Rnd at <12911.946289, 42.993912, 2381.610596>
+30.10.2024 22:19:03 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - player list sync
+30.10.2024 22:19:03 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - function list sync
+30.10.2024 22:19:09 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) spawned Mag_Expansion_G36_30Rnd at <12903.630859, 42.970932, 2386.575439>
+30.10.2024 22:19:10 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) spawned Mag_Expansion_G36_30Rnd at <12903.536133, 43.182632, 2386.604248>
+30.10.2024 22:19:27 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) spawned ACOGOptic at <12903.441406, 43.394333, 2386.633545>
+30.10.2024 22:19:51 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - player list sync
+30.10.2024 22:19:51 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - function list sync
+30.10.2024 22:20:16 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) teleported to position <7033.596191, 8.242251, 7147.718750>
+30.10.2024 22:20:57 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - player list sync
+30.10.2024 22:20:57 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - function list sync
+30.10.2024 22:20:59 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - player list sync
+30.10.2024 22:20:59 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - function list sync
+30.10.2024 22:21:27 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) teleported to position <9762.441406, 6.367182, 4353.771484>
+30.10.2024 22:22:46 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - player list sync
+30.10.2024 22:22:46 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - function list sync
+30.10.2024 22:30:08 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 22:30:08 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 22:30:21 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 22:30:21 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 22:30:27 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) executed TPToTarget on target Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=)
+30.10.2024 22:30:27 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) executed TPToTarget on target Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=)
+30.10.2024 22:33:59 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 22:33:59 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 22:34:04 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) executed GodTarget
+30.10.2024 22:36:39 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - player list sync
+30.10.2024 22:36:39 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - function list sync
+30.10.2024 22:36:50 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) teleported to position <5553.007813, 74.000000, 3495.104492>
+30.10.2024 22:37:43 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 22:37:43 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 22:37:54 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) executed TPToTarget on target Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=)
+30.10.2024 22:37:57 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 22:37:57 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 22:38:00 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) executed GodTarget
+30.10.2024 22:38:04 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - player list sync
+30.10.2024 22:38:04 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - function list sync
+30.10.2024 22:38:17 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) spawned Mag_Expansion_G36_30Rnd at <5532.344727, 75.055870, 3467.301758>
+30.10.2024 22:38:18 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) spawned Mag_Expansion_G36_30Rnd at <5532.405762, 75.071762, 3467.307129>
+30.10.2024 22:38:18 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) spawned Mag_Expansion_G36_30Rnd at <5532.462891, 75.086670, 3467.311523>
+30.10.2024 22:38:19 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) spawned Mag_Expansion_G36_30Rnd at <5532.547363, 75.108528, 3467.318359>
+30.10.2024 22:40:22 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - player list sync
+30.10.2024 22:40:22 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - function list sync
+30.10.2024 22:40:27 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) executed RefuelAndRepair
+30.10.2024 22:40:50 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - player list sync
+30.10.2024 22:40:50 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - function list sync
+30.10.2024 22:40:51 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - player list sync
+30.10.2024 22:40:51 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - function list sync
+30.10.2024 22:44:50 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - player list sync
+30.10.2024 22:44:50 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - function list sync
+30.10.2024 22:45:10 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) spawned ExpansionSpraycanMh6Sheriff at <3536.234375, 21.197359, 6087.660156>
+30.10.2024 22:45:11 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) spawned ExpansionSpraycanMh6Sheriff at <3536.267822, 21.218719, 6087.740723>
+30.10.2024 22:45:11 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) spawned ExpansionSpraycanMh6Sheriff at <3536.302979, 21.241093, 6087.825684>
+30.10.2024 22:45:11 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) spawned ExpansionSpraycanMh6Sheriff at <3536.345459, 21.268543, 6087.929688>
+30.10.2024 22:45:12 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) spawned ExpansionSpraycanSheriff at <3536.378906, 21.290045, 6088.010254>
+30.10.2024 22:45:13 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) spawned ExpansionSpraycanSheriff at <3536.424805, 21.319275, 6088.121094>
+30.10.2024 22:45:13 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) spawned ExpansionSpraycanSheriff at <3536.471680, 21.349482, 6088.234863>
+30.10.2024 22:45:26 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 22:45:26 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 22:45:35 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned Expansion_G36 at <3522.416748, 24.625206, 6268.668457>
+30.10.2024 22:45:36 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned Mag_Expansion_G36_30Rnd at <3522.444580, 24.732788, 6268.616211>
+30.10.2024 22:45:37 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned Mag_Expansion_G36_30Rnd at <3522.472412, 24.839237, 6268.564941>
+30.10.2024 22:45:37 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned Mag_Expansion_G36_30Rnd at <3522.527344, 25.050936, 6268.462891>
+30.10.2024 22:45:37 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned Mag_Expansion_G36_30Rnd at <3522.579346, 25.250938, 6268.365723>
+30.10.2024 22:45:38 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned Mag_Expansion_G36_30Rnd at <3522.634033, 25.462637, 6268.263184>
+30.10.2024 22:46:10 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 22:46:10 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 22:46:33 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - player list sync
+30.10.2024 22:46:33 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - function list sync
+30.10.2024 22:46:36 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) executed RefuelAndRepair
+30.10.2024 22:46:45 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned M4_Suppressor at <3508.839600, 27.271200, 6362.750488>
+30.10.2024 22:48:07 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 22:48:07 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 22:48:09 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) executed TimeDay
+30.10.2024 22:49:04 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 22:49:04 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 22:49:11 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIBaty at <3467.359619, 22.132139, 6377.270508>
+30.10.2024 22:49:27 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 22:49:27 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 22:49:35 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIIrena at <3469.145996, 21.439852, 6384.304199>
+30.10.2024 22:49:36 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIRolf at <3468.956055, 21.547468, 6384.477539>
+30.10.2024 22:49:36 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAINiki at <3468.764893, 21.655880, 6384.651855>
+30.10.2024 22:49:37 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIHassan at <3469.145996, 21.439852, 6384.304199>
+30.10.2024 22:49:38 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAILinda at <3468.956055, 21.547464, 6384.477539>
+30.10.2024 22:49:38 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIIrena at <3469.145996, 21.439850, 6384.304199>
+30.10.2024 22:50:06 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 22:50:06 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 22:50:12 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIBaty at <3462.573730, 21.014990, 6384.063965>
+30.10.2024 22:50:12 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIKeiko at <3462.573730, 21.015001, 6384.063965>
+30.10.2024 22:50:13 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAITaiki at <3462.573730, 21.014988, 6384.063965>
+30.10.2024 22:50:13 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAILewis at <3462.573730, 21.015003, 6384.063965>
+30.10.2024 22:50:14 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIFrancis at <3461.778076, 21.616652, 6384.999023>
+30.10.2024 22:50:14 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIKaito at <3461.653564, 21.710602, 6385.145020>
+30.10.2024 22:50:15 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAISeth at <3461.201904, 22.052038, 6385.675781>
+30.10.2024 22:50:15 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIGabi at <3461.076660, 22.146683, 6385.822754>
+30.10.2024 22:50:15 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIRolf at <3462.184570, 21.309032, 6384.520996>
+30.10.2024 22:50:16 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIIndar at <3462.573730, 21.014990, 6384.063965>
+30.10.2024 22:50:16 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIFrancis at <3460.926270, 22.260408, 6385.999512>
+30.10.2024 22:50:17 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIDenis at <3460.782959, 22.368795, 6386.167969>
+30.10.2024 22:50:17 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIIndar at <3462.573730, 21.015005, 6384.063965>
+30.10.2024 22:50:18 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIPeter at <3462.465820, 21.096571, 6384.190918>
+30.10.2024 22:50:19 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIKeiko at <3461.001221, 22.203695, 6385.911133>
+30.10.2024 22:50:19 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIIrena at <3460.876221, 22.298208, 6386.058105>
+30.10.2024 22:50:20 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAISeth at <3460.984375, 22.216549, 6385.931152>
+30.10.2024 22:50:20 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIManua at <3460.493896, 22.587330, 6386.507324>
+30.10.2024 22:50:21 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIHassan at <3460.346924, 22.698397, 6386.680176>
+30.10.2024 22:50:21 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIQuinn at <3460.941650, 22.248625, 6385.980957>
+30.10.2024 22:50:21 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIKaito at <3460.520020, 22.567341, 6386.476563>
+30.10.2024 22:50:22 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIFrancis at <3460.557373, 22.539095, 6386.432129>
+30.10.2024 22:50:29 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - player list sync
+30.10.2024 22:50:29 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - function list sync
+30.10.2024 22:50:34 [ZomBerryAdmin]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) executed RefuelAndRepair
+30.10.2024 22:51:35 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - player list sync
+30.10.2024 22:51:35 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - function list sync
+30.10.2024 22:51:37 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - player list sync
+30.10.2024 22:51:37 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - function list sync
+30.10.2024 22:51:42 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - player list sync
+30.10.2024 22:51:42 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - function list sync
+30.10.2024 22:52:17 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - player list sync
+30.10.2024 22:52:17 [ZomBerryDbg]: Ascot (Bq1eMPNQmCjR3m0OoefiBVPgfzzwn8eiAx7N9rAB62s=) - function list sync
+30.10.2024 22:52:54 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 22:52:54 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 22:52:58 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIHelga at <3528.288330, 23.745836, 6450.505859>
+30.10.2024 22:52:58 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAILewis at <3528.288330, 23.745836, 6450.505859>
+30.10.2024 22:52:58 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIDenis at <3528.119385, 23.786856, 6450.439941>
+30.10.2024 22:52:59 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIIndar at <3528.212646, 23.764137, 6450.476563>
+30.10.2024 22:53:00 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIQuinn at <3527.615479, 23.909449, 6450.241211>
+30.10.2024 22:53:00 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIIrena at <3528.288330, 23.745836, 6450.505859>
+30.10.2024 22:53:01 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAILinda at <3528.102783, 23.790920, 6450.432617>
+30.10.2024 22:53:01 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIGuo at <3528.288330, 23.745836, 6450.505859>
+30.10.2024 22:53:02 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionQuestNPCTaiki at <3528.105957, 23.790236, 6450.434570>
+30.10.2024 22:53:02 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIHassan at <3528.288330, 23.745836, 6450.505859>
+30.10.2024 22:53:02 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIOliver at <3528.288330, 23.745836, 6450.505859>
+30.10.2024 22:53:03 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIFrida at <3528.288330, 23.745836, 6450.505859>
+30.10.2024 22:53:03 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIJudy at <3528.288330, 23.745836, 6450.505859>
+30.10.2024 22:53:04 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAINaomi at <3528.288330, 23.745836, 6450.505859>
+30.10.2024 22:53:04 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIHelga at <3528.288330, 23.745836, 6450.505859>
+30.10.2024 22:53:05 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAITaiki at <3528.288330, 23.745836, 6450.505859>
+30.10.2024 22:53:05 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIGabi at <3528.288330, 23.745836, 6450.505859>
+30.10.2024 22:53:06 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAILinda at <3528.192871, 23.768915, 6450.468262>
+30.10.2024 22:53:06 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIQuinn at <3528.288330, 23.745836, 6450.505859>
+30.10.2024 22:53:07 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIGabi at <3528.288330, 23.745836, 6450.505859>
+30.10.2024 22:53:07 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIKeiko at <3528.288330, 23.745836, 6450.505859>
+30.10.2024 22:53:08 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAINaomi at <3528.288330, 23.745832, 6450.505859>
+30.10.2024 22:53:08 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIHelga at <3527.512451, 23.934427, 6450.200195>
+30.10.2024 22:53:08 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIPeter at <3528.288330, 23.745836, 6450.505859>
+30.10.2024 22:53:09 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAILewis at <3528.288330, 23.745836, 6450.505859>
+30.10.2024 22:53:09 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAITaiki at <3528.288330, 23.745836, 6450.505859>
+30.10.2024 22:53:10 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIFrida at <3527.371338, 23.968796, 6450.145020>
+30.10.2024 22:53:10 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAITaiki at <3528.288330, 23.745836, 6450.505859>
+30.10.2024 22:53:11 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAINiki at <3528.288330, 23.745836, 6450.505859>
+30.10.2024 22:53:11 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAITaiki at <3527.251953, 23.997841, 6450.098145>
+30.10.2024 22:55:32 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 22:55:32 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 22:57:35 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - player list sync
+30.10.2024 22:57:35 [ZomBerryDbg]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) - function list sync
+30.10.2024 22:57:40 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAISeth at <3459.220703, 20.429989, 6524.626953>
+30.10.2024 22:57:40 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIHassan at <3459.220703, 20.429987, 6524.626953>
+30.10.2024 22:57:41 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIMaria at <3459.220703, 20.429985, 6524.626953>
+30.10.2024 22:57:41 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIIrena at <3459.062256, 20.481909, 6524.512695>
+30.10.2024 22:57:41 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIKaito at <3459.144531, 20.454926, 6524.571777>
+30.10.2024 22:57:42 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIMirek at <3459.220703, 20.429989, 6524.626953>
+30.10.2024 22:57:42 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAILinda at <3456.689697, 21.258619, 6522.801758>
+30.10.2024 22:57:43 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAIHelga at <3456.852295, 21.205463, 6522.918945>
+30.10.2024 22:57:43 [ZomBerryAdmin]: DasBrunzel (f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned ExpansionGuardAILewis at <3456.974609, 21.165447, 6523.006836>

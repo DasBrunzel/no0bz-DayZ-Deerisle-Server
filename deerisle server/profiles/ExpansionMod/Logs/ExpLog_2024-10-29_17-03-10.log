@@ -1,0 +1,46 @@
+17:03:10.398 [AI Object Patrol] Generating default Object Patrol config for deerisle
+17:03:10.398 [AI Patrol] Generating default Patrol config for deerisle
+17:04:35.523 [Expansion Quests] Initialize quest system on the connected client with UID=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=
+17:04:35.531 [Expansion Quests] Created new persistent player quest data for player UID=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=
+17:04:35.531 [Expansion Quests] Quest with ID=1 is not a a valid achievement or auto start quest. Skip quest for player with UID=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=
+17:04:35.531 [Expansion Quests] Quest with ID=2 is not a a valid achievement or auto start quest. Skip quest for player with UID=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=
+17:04:35.531 [Expansion Quests] Quest with ID=3 is not a a valid achievement or auto start quest. Skip quest for player with UID=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=
+17:04:35.531 [Expansion Quests] Quest with ID=4 is not a a valid achievement or auto start quest. Skip quest for player with UID=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=
+17:04:35.531 [Expansion Quests] Quest with ID=5 is not a a valid achievement or auto start quest. Skip quest for player with UID=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=
+17:04:35.531 [Expansion Quests] Quest with ID=6 is not a a valid achievement or auto start quest. Skip quest for player with UID=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=
+17:04:35.531 [Expansion Quests] Quest with ID=7 is not a a valid achievement or auto start quest. Skip quest for player with UID=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=
+17:04:35.531 [Expansion Quests] Create new achievement/auto-start quest for quest ID=8 for player with UID=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=
+17:04:35.531 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=3
+17:04:35.531 [Expansion Quests] Updated and saved persistent player quest data for player with UID=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k= | Quest ID=8
+17:04:35.531 [Expansion Quests] Create new achievement/auto-start quest for quest ID=9 for player with UID=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=
+17:04:35.531 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=2
+17:04:35.531 [Expansion Quests] Updated and saved persistent player quest data for player with UID=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k= | Quest ID=9
+17:04:35.531 [Expansion Quests] Quest with ID=10 is not a a valid achievement or auto start quest. Skip quest for player with UID=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=
+17:04:35.531 [Expansion Quests] Create new achievement/auto-start quest for quest ID=11 for player with UID=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=
+17:04:35.531 [Expansion Quests] Added new objective data for type=ACTION | Key= | ID=1
+17:04:35.531 [Expansion Quests] Updated and saved persistent player quest data for player with UID=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k= | Quest ID=11
+17:04:35.535 [Expansion Quests] Quest with ID=12 is not a a valid achievement or auto start quest. Skip quest for player with UID=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=
+17:04:35.535 [Expansion Quests] Quest with ID=13 is not a a valid achievement or auto start quest. Skip quest for player with UID=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=
+17:04:35.535 [Expansion Quests] Create new achievement/auto-start quest for quest ID=14 for player with UID=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=
+17:04:35.535 [Expansion Quests] Added new objective data for type=TRAVEL | Key= | ID=3
+17:04:35.535 [Expansion Quests] Updated and saved persistent player quest data for player with UID=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k= | Quest ID=14
+17:04:35.535 [Expansion Quests] Quest with ID=15 is not a a valid achievement or auto start quest. Skip quest for player with UID=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=
+17:04:35.535 [Expansion Quests] Quest with ID=16 is not a a valid achievement or auto start quest. Skip quest for player with UID=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=
+17:04:35.535 [Expansion Quests] Quest with ID=17 is not a a valid achievement or auto start quest. Skip quest for player with UID=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=
+17:04:35.535 [Expansion Quests] Quest with ID=18 is not a a valid achievement or auto start quest. Skip quest for player with UID=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=
+17:04:35.535 [Expansion Quests] Quest with ID=19 is not a a valid achievement or auto start quest. Skip quest for player with UID=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=
+17:04:35.535 [Expansion Quests] Quest with ID=20 is not a a valid achievement or auto start quest. Skip quest for player with UID=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=
+17:04:35.535 [Expansion Quests] Quest with ID=21 is not a a valid achievement or auto start quest. Skip quest for player with UID=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=
+17:04:35.535 [Expansion Quests] Quest with ID=22 is not a a valid achievement or auto start quest. Skip quest for player with UID=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=
+17:04:35.535 [Expansion Quests] Quest with ID=23 is not a a valid achievement or auto start quest. Skip quest for player with UID=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=
+17:04:35.535 [Expansion Quests] Quest with ID=24 is not a a valid achievement or auto start quest. Skip quest for player with UID=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=
+17:04:35.535 [Expansion Quests] Sending f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k= quest configs to client for player with UID=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=
+17:04:35.535 [Expansion Quests] Sending player quest data for 4 quests to player with UID=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=
+17:04:35.546 [Expansion Quests] Added new objective data for type=TRAVEL | Key= | ID=3
+17:04:35.546 [Expansion Quests] Updated and saved persistent player quest data for player with UID=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k= | Quest ID=14
+17:04:35.546 [Expansion Quests] Player with UID=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k= has completed quest with ID=14
+17:04:35.546 [Expansion Quests] Updated and saved persistent player quest data for player with UID=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k= | Quest ID=14
+17:05:46.593 [SpawnSelection] Player "Brunzel" (id=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=) spawned at <8955.467773, 30.112320, 5266.041992>
+17:06:50.441 [Expansion Quests] Deleted quest with ID=8 is a of player with UID=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=.
+17:06:50.441 [Expansion Quests] Deleted quest with ID=9 is a of player with UID=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=.
+17:06:50.441 [Expansion Quests] Deleted quest with ID=11 is a of player with UID=f2l2jICD_Sczip949hvINs6OyU4Bwb7AcAdZ3Ggck4k=.
