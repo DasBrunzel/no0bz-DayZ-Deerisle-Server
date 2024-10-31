@@ -62,4 +62,26 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="MoreMoneytypes">
 		<file name="MoreMoney_types.xml" type="types" />
 	</ce>
+	<ce folder="Paragontypes">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="RAGtypes">
+		<file name="rag_baseitems.xml" type="types" />
+	</ce>
+	<ce folder="FoXyRadiotypes">
+		<file name="FoXyRadiotypes.xml" type="types" />
+		<file name="BolbiMusicPack.xml" type="types" />
+		<file name="DoVaI_Cassettes.xml" type="types" />
+		<file name="FoXyRadio_Albums_Pack_01_Cassettes.xml" type="types" />
+		<file name="FoXyRadio_Albums_Pack_01_TraderRadios.xml" type="types" />
+		<file name="FoXyRadio_Christmas_Pack_01_Cassettes.xml" type="types" />
+		<file name="FoXyRadio_RadioStations_Pack_01_TraderRadios.xml" type="types" />
+		<file name="FoXyRadio_RadioStations_Pack_01_Cassettes.xml" type="types" />
+		<file name="FoXyRadio_Singles_Pack_01_Cassettes.xml" type="types" />
+		<file name="FoXyRadio_Singles_Pack_02_Cassettes.xml" type="types" />
+		<file name="MoreCassettes_Cassettes.xml" type="types" />
+		<file name="MoreCassettesWorldTour_Cassettes.xml" type="types" />
+		<file name="PuffisMusicPack_Cassettes.xml" type="types" />
+		<file name="TROM_Cassettes.xml" type="types" />
+	</ce>
 </economycore>
