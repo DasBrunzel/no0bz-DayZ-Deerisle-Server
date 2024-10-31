@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- ================== YOU CAN FIND A LOT MORE INFORMATIONS IN HELP.TXT FILES ================== -->
+<types>	
+	<!-- ======================== NIGHT TIME ============================== -->
+	
+	<type NightTime_Master = "ZmbM_DH_Master_Night">	
+	
+        <NightTime_Zombie	Name="ZmbF_DH_WhiteLady"/>
+        <NightTime_Zombie	Name="ZmbF_DH_WhiteLady"/>
+        <NightTime_Zombie	Name="ZmbF_DH_WhiteLady"/>
+        <NightTime_Zombie	Name="ZmbF_DH_WhiteLady"/>
+	
+        <NightTime_Zombie	Name="ZmbM_DH_Invisible_Ghillie"/>
+        <NightTime_Zombie	Name="ZmbM_DH_Invisible_Ghillie"/>
+        <NightTime_Zombie	Name="ZmbM_DH_Invisible_Ghillie"/>
+        <NightTime_Zombie	Name="ZmbM_DH_Invisible_Ghillie"/>
+        <NightTime_Zombie	Name="ZmbM_DH_Invisible_Ghillie"/>
+
+        <NightTime_Zombie	Name="ZmbM_DH_NightWalker"/>
+        <NightTime_Zombie	Name="ZmbM_DH_NightWalker"/>
+        <NightTime_Zombie	Name="ZmbM_DH_NightWalker"/>
+
+        <NightTime_Zombie	Name="ZmbM_DH_Invisible_RedEye"/>
+        <NightTime_Zombie	Name="ZmbM_DH_Invisible_RedEye"/>
+		
+		<NightTime_Zombie	Name="ZmbM_DH_AlmostTransparent_Red"/>
+        <NightTime_Zombie	Name="ZmbM_DH_AlmostTransparent_Red"/>
+        <NightTime_Zombie	Name="ZmbM_DH_AlmostTransparent_Red"/>
+		
+        <NightTime_Zombie	Name="ZmbM_Mummy"/>
+	</type>  
+	
+	<!-- ======================== DAY TIME ============================== -->	
+	
+	<type DayTime_Master = "ZmbM_DH_Master_Day">		
+		
+        <DayTime_Zombie		Name="ZmbM_Gamedev_Black"/>
+        <DayTime_Zombie		Name="ZmbM_Gamedev_Blue"/>
+        <DayTime_Zombie		Name="ZmbM_Gamedev_Gray"/>
+
+        <DayTime_Zombie		Name="ZmbM_HermitSkinny_Beige"/>
+        <DayTime_Zombie		Name="ZmbM_HermitSkinny_Black"/>
+        <DayTime_Zombie		Name="ZmbM_HermitSkinny_Green"/>
+        <DayTime_Zombie		Name="ZmbM_HermitSkinny_Red"/>
+		
+        <DayTime_Zombie		Name="ZmbF_CitizenBSkinny"/>
+        <DayTime_Zombie		Name="ZmbF_SkaterYoung_Brown"/>
+        <DayTime_Zombie		Name="ZmbF_MilkMaidOld_Beige"/>
+        <DayTime_Zombie		Name="ZmbF_MilkMaidOld_Black"/>
+        <DayTime_Zombie		Name="ZmbF_MilkMaidOld_Green"/>
+        <DayTime_Zombie		Name="ZmbF_MilkMaidOld_Grey"/>
+		
+        <DayTime_Zombie		Name="ZmbM_FarmerFat_Blue"/>
+        <DayTime_Zombie		Name="ZmbM_FarmerFat_Brown"/>
+        <DayTime_Zombie		Name="ZmbM_FarmerFat_Green"/>
+        <DayTime_Zombie		Name="ZmbM_VillagerOld_Blue"/>
+        <DayTime_Zombie		Name="ZmbM_VillagerOld_Green"/>
+        <DayTime_Zombie		Name="ZmbM_VillagerOld_White"/>
+        <DayTime_Zombie		Name="ZmbF_VillagerOld_Blue"/>
+        <DayTime_Zombie		Name="ZmbF_VillagerOld_Green"/>
+        <DayTime_Zombie		Name="ZmbF_VillagerOld_Red"/>
+        <DayTime_Zombie		Name="ZmbF_SurvivorNormal_Blue"/>
+        <DayTime_Zombie		Name="ZmbF_SurvivorNormal_Orange"/>
+        <DayTime_Zombie		Name="ZmbF_SurvivorNormal_Red"/>
+        <DayTime_Zombie		Name="ZmbM_FishermanOld_Blue"/>
+        <DayTime_Zombie		Name="ZmbM_FishermanOld_Green"/>
+        <DayTime_Zombie		Name="ZmbM_FishermanOld_Red"/>
+        <DayTime_Zombie		Name="ZmbF_CitizenANormal_Brown"/>
+        <DayTime_Zombie		Name="ZmbF_CitizenANormal_Blue"/>
+        <DayTime_Zombie		Name="ZmbM_CitizenASkinny_Blue"/>
+        <DayTime_Zombie		Name="ZmbM_CitizenASkinny_Brown"/>
+        <DayTime_Zombie		Name="ZmbM_CitizenBFat_Green"/>
+        <DayTime_Zombie		Name="ZmbM_HikerSkinny_Blue"/>
+        <DayTime_Zombie		Name="ZmbM_HikerSkinny_Green"/>
+        <DayTime_Zombie		Name="ZmbF_HikerSkinny_Green"/>
+        <DayTime_Zombie		Name="ZmbF_JournalistNormal_Blue"/>
+        <DayTime_Zombie		Name="ZmbF_JournalistNormal_Green"/>
+        <DayTime_Zombie		Name="ZmbF_JournalistNormal_Red"/>
+        <DayTime_Zombie		Name="ZmbF_JournalistNormal_White"/>
+        <DayTime_Zombie		Name="ZmbM_CommercialPilotOld_Blue"/>
+        <DayTime_Zombie		Name="ZmbM_CommercialPilotOld_Olive"/>
+        <DayTime_Zombie		Name="ZmbM_CommercialPilotOld_Brown"/>
+        <DayTime_Zombie		Name="ZmbM_MotobikerFat_Black"/>
+        <DayTime_Zombie		Name="ZmbM_MotobikerFat_Blue"/>	
+        <DayTime_Zombie		Name="ZmbF_BlueCollarFat_Blue"/>
+        <DayTime_Zombie		Name="ZmbF_BlueCollarFat_Green"/>
+        <DayTime_Zombie		Name="ZmbM_ClerkFat_Brown"/>
+        <DayTime_Zombie		Name="ZmbM_ClerkFat_Khaki"/>
+        <DayTime_Zombie		Name="ZmbF_Clerk_Normal_Blue"/>
+        <DayTime_Zombie		Name="ZmbF_Clerk_Normal_Green"/>
+        <DayTime_Zombie		Name="ZmbF_ClerkFat_Black"/>
+        <DayTime_Zombie		Name="ZmbF_MechanicNormal_Beige"/>
+        <DayTime_Zombie		Name="ZmbM_MechanicSkinny_Grey"/>
+        <DayTime_Zombie		Name="ZmbM_ConstrWorkerNormal_Black"/>
+        <DayTime_Zombie		Name="ZmbM_ConstrWorkerNormal_Grey"/>
+        <DayTime_Zombie		Name="ZmbM_HandymanNormal_Grey"/>		
+		
+        <DayTime_Zombie		Name="ZmbM_HeavyIndustryWorker"/>
+		
+        <DayTime_Zombie		Name="ZmbM_ParamedicNormal_Black"/>
+		
+        <DayTime_Zombie		Name="ZmbM_PrisonerSkinny"/>
+		
+        <DayTime_Zombie		Name="ZmbM_Jacket_black"/>
+        <DayTime_Zombie		Name="ZmbM_Jacket_blue"/>
+        <DayTime_Zombie		Name="ZmbM_Jacket_brown"/>
+        <DayTime_Zombie		Name="ZmbM_Jacket_grey"/>
+        <DayTime_Zombie		Name="ZmbM_Jacket_khaki"/>
+        <DayTime_Zombie		Name="ZmbF_ShortSkirt_black"/>
+        <DayTime_Zombie		Name="ZmbF_ShortSkirt_brown"/>
+        <DayTime_Zombie		Name="ZmbF_ShortSkirt_grey"/>
+		
+        <DayTime_Zombie		Name="ZmbM_PolicemanFat"/>
+        <DayTime_Zombie		Name="ZmbF_PoliceWomanNormal"/>
+        <DayTime_Zombie		Name="ZmbM_HunterOld_Autumn"/>
+        <DayTime_Zombie		Name="ZmbM_HunterOld_Spring"/>
+        <DayTime_Zombie		Name="ZmbM_HunterOld_Summer"/>
+		
+        <DayTime_Zombie		Name="ZmbM_PolicemanSpecForce"/>
+        <DayTime_Zombie		Name="ZmbM_SoldierNormal"/>
+        <DayTime_Zombie		Name="ZmbM_usSoldier_normal_Woodland"/>
+        <DayTime_Zombie		Name="ZmbM_usSoldier_normal_Desert"/>
+        <DayTime_Zombie		Name="ZmbM_PatrolNormal_PautRev"/>
+        <DayTime_Zombie		Name="ZmbM_PatrolNormal_Autumn"/>
+        <DayTime_Zombie		Name="ZmbM_PatrolNormal_Flat"/>
+        <DayTime_Zombie		Name="ZmbM_PatrolNormal_Summer"/>
+		
+        <DayTime_Zombie		Name="ZmbM_DoctorFat"/>
+	</type>     
+</types>
+
+	
