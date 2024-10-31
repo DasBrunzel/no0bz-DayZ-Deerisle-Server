@@ -137,6 +137,143 @@
 				"FoXyRadio_Walkman_Simple_9V_Red",
 				"FoXyRadio_Walkman_Simple_9V_Yellow"
 			]
+        },
+		{
+            "ClassName": "FoXyRadio_Battery_9V_x2",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "FoXyRadio_Battery_9V_x3",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "FoXyRadio_Battery_9V_x4",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "FoXyRadio_Battery_9V_x5",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "battery9v",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FoXyRadio_Battery_9V_Abstract",
+				"FoXyRadio_Battery_9V_BlackHole",
+				"FoXyRadio_Battery_9V_CamoArmy",
+				"FoXyRadio_Battery_9V_CamoAutumn",
+				"FoXyRadio_Battery_9V_CamoBreeze",
+				"FoXyRadio_Battery_9V_CamoDesert",
+				"FoXyRadio_Battery_9V_CamoDesertDigital",
+				"FoXyRadio_Battery_9V_CamoDusk",
+				"FoXyRadio_Battery_9V_CamoGreen",
+				"FoXyRadio_Battery_9V_CamoGrey",
+				"FoXyRadio_Battery_9V_CamoIce",
+				"FoXyRadio_Battery_9V_CamoWinter",
+				"FoXyRadio_Battery_9V_Cannabis",
+				"FoXyRadio_Battery_9V_Comic",
+				"FoXyRadio_Battery_9V_Cosmic",
+				"FoXyRadio_Battery_9V_Eevee",
+				"FoXyRadio_Battery_9V_FoXy",
+				"FoXyRadio_Battery_9V_Galaxy",
+				"FoXyRadio_Battery_9V_Graffiti",
+				"FoXyRadio_Battery_9V_Hearts",
+				"FoXyRadio_Battery_9V_Hex",
+				"FoXyRadio_Battery_9V_HexGrey",
+				"FoXyRadio_Battery_9V_Leaves",
+				"FoXyRadio_Battery_9V_Matrix",
+				"FoXyRadio_Battery_9V_Nebula",
+				"FoXyRadio_Battery_9V_Pikachu",
+				"FoXyRadio_Battery_9V_Rusted",
+				"FoXyRadio_Battery_9V_Stars",
+				"FoXyRadio_Battery_9V_Stickers",
+				"FoXyRadio_Battery_9V_TheUnforgiven",
+				"FoXyRadio_Battery_9V_Zebra"
+			]
+        },
+		{
+            "ClassName": "FoXyRadio_Battery_AA",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FoXyRadio_Battery_AA_FoXy"
+			]
+        },
+		{
+            "ClassName": "FoXyRadio_Case_Black",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "FoXyRadio_EarPhones",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FoXyRadio_EarPhones_xscr33m"
+			]
+        },
+		{
+            "ClassName": "FoXyRadio_EarPhones",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"FoXyRadio_EarPhones_xscr33m"
+			]
         }
     ]
 }
