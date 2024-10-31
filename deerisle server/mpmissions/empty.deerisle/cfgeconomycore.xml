@@ -84,4 +84,20 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="PuffisMusicPack_Cassettes.xml" type="types" />
 		<file name="TROM_Cassettes.xml" type="types" />
 	</ce>
+	<ce folder="CannabisPlustypes">
+		<file name="cannabisplus_types.xml" type="types" />
+	</ce>
+	<ce folder="fliptransport">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="KamazTypes">
+		<file name="KamazTypes.xml" type="types" />
+		<file name="kamaz_cfgspawnabletypes.xml" type="spawnabletypes" />
+		<file name="kamaz_events.xml" type="events" />
+		<file name="kamaz_events.xml" type="cfgeventspawns" />
+	</ce>
+	<ce folder="SNAFU">
+		<file name="SNAFU.xml" type="types" />
+		<file name="snafuspawnabletypes25percent.xml" type="spawnabletypes" />
+	</ce>
 </economycore>

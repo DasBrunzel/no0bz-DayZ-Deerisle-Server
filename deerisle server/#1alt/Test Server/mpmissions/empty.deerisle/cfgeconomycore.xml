@@ -84,4 +84,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="PuffisMusicPack_Cassettes.xml" type="types" />
 		<file name="TROM_Cassettes.xml" type="types" />
 	</ce>
+	<ce folder="CannabisPlustypes">
+		<file name="cannabisplus_types.xml" type="types" />
+	</ce>
 </economycore>
