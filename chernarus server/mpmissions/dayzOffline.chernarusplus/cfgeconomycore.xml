@@ -40,4 +40,84 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="expansion_spawnabletypes.xml" type="spawnabletypes" />
 		<file name="expansion_events.xml" type="events" />
 	</ce>
+	<ce folder="cannabisplus">
+		<file name="cannabisplus_types.xml" type="types" />
+	</ce>
+	<ce folder="CJ187_MoreMoney">
+		<file name="cj187_moremony_types.xml" type="types" />
+		<file name="cj187_moremony_cfgspawnabletypes.xml" type="spawnabletypes" />
+	</ce>
+	<ce folder="FlipTransport">
+		<file name="fliptransport_types.xml" type="types" />
+	</ce>
+	<ce folder="MMG">
+		<file name="mmg_cfgspawnabletypes.xml" type="spawnabletypes" />
+		<file name="mmg_types_alpine.xml" type="types" />
+		<file name="mmg_types_atacs.xml" type="types" />
+		<file name="mmg_types_black.xml" type="types" />
+		<file name="mmg_types_carbines.xml" type="types" />
+		<file name="mmg_types_dark_woodland.xml" type="types" />
+		<file name="mmg_types_erdl.xml" type="types" />
+		<file name="mmg_types_green.xml" type="types" />
+		<file name="mmg_types_multicam.xml" type="types" />
+		<file name="mmg_types_multicam_tropic.xml" type="types" />
+		<file name="mmg_types_multicamblack.xml" type="types" />
+		<file name="mmg_types_NBC+NVG.xml" type="types" />
+		<file name="mmg_types_patches.xml" type="types" />
+		<file name="mmg_types_police.xml" type="types" />
+		<file name="mmg_types_tan.xml" type="types" />
+		<file name="mmg_types_ucp.xml" type="types" />
+		<file name="mmg_types_ADMINGEAR.xml" type="types" />
+	</ce>
+	<ce folder="FoxyRadio">
+		<file name="BolbiMusicPackCassettes.xml" type="types" />
+		<file name="BolbiMusicPackCDs.xml" type="types" />
+		<file name="BolbiMusicPackSDCards.xml" type="types" />
+		<file name="BolbiMusicPackUSBs.xml" type="types" />
+		<file name="DoVaI_CassettesCassettes.xml" type="types" />
+		<file name="DoVaI_CassettesSDCards.xml" type="types" />
+		<file name="FoXyRadio_Albums_Pack_01Cassettes.xml" type="types" />
+		<file name="FoXyRadio_Albums_Pack_01CDs.xml" type="types" />
+		<file name="FoXyRadio_Albums_Pack_01SDCards.xml" type="types" />
+		<file name="FoXyRadio_Albums_Pack_01TraderRadios.xml" type="types" />
+		<file name="FoXyRadio_Albums_Pack_01USBs.xml" type="types" />
+		<file name="FoXyRadio_Christmas_Pack_01Cassettes.xml" type="types" />
+		<file name="FoXyRadio_Christmas_Pack_01CDs.xml" type="types" />
+		<file name="FoXyRadio_Christmas_Pack_01SDCards.xml" type="types" />
+		<file name="FoXyRadio_Christmas_Pack_01USBs.xml" type="types" />
+		<file name="FoXyRadio_RadioStations_Pack_01Cassettes.xml" type="types" />
+		<file name="FoXyRadio_RadioStations_Pack_01CDs.xml" type="types" />
+		<file name="FoXyRadio_RadioStations_Pack_01SDCards.xml" type="types" />
+		<file name="FoXyRadio_RadioStations_Pack_01TraderRadios.xml" type="types" />
+		<file name="FoXyRadio_RadioStations_Pack_01USBs.xml" type="types" />
+		<file name="FoXyRadio_Singles_Pack_01Cassettes.xml" type="types" />
+		<file name="FoXyRadio_Singles_Pack_01CDs.xml" type="types" />
+		<file name="FoXyRadio_Singles_Pack_01SDCards.xml" type="types" />
+		<file name="FoXyRadio_Singles_Pack_01USBs.xml" type="types" />
+		<file name="FoXyRadio_Singles_Pack_02Cassettes.xml" type="types" />
+		<file name="FoXyRadio_Singles_Pack_02CDs.xml" type="types" />
+		<file name="FoXyRadio_Singles_Pack_02SDCards.xml" type="types" />
+		<file name="FoXyRadio_Singles_Pack_02USBs.xml" type="types" />
+		<file name="FoXyRadiotypes.xml" type="types" />
+		<file name="MoreCassettesCassettes.xml" type="types" />
+		<file name="MoreCassettesCDs.xml" type="types" />
+		<file name="MoreCassettesSDCards.xml" type="types" />
+		<file name="MoreCassettesUSBs.xml" type="types" />
+		<file name="MoreCassettesWorldTourCassettes.xml" type="types" />
+		<file name="MoreCassettesWorldTourCDs.xml" type="types" />
+		<file name="MoreCassettesWorldTourSDCards.xml" type="types" />
+		<file name="MoreCassettesWorldTourUSBs.xml" type="types" />
+		<file name="PuffisMusicPackCassettes.xml" type="types" />
+		<file name="PuffisMusicPackSDCards.xml" type="types" />
+		<file name="TROM_Cassettes.xml" type="types" />
+		<file name="TROM_CDs.xml" type="types" />
+		<file name="TROM_SDCards.xml" type="types" />
+		<file name="TROM_USBs.xml" type="types" />
+	</ce>
+	<ce folder="Paragontypes">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="RAGtypes">
+		<file name="rag_baseitems.xml" type="types" />
+	</ce>
 </economycore>

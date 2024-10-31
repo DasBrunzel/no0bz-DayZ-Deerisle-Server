@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <randompresets>
+<!-- CJ-187-MoreMoney -->
+		<cargo chance="0.15" name="RU_Money">
+				<item name="Money_Ruble1" chance="0.15" />
+				<item name="Money_Ruble2" chance="0.15" />
+				<item name="Money_Ruble5" chance="0.15" />
+				<item name="Money_Ruble10" chance="0.15" />
+				<item name="Money_Ruble50" chance="0.10" />
+				<item name="Money_Ruble100" chance="0.05" />
+				<item name="Money_Ruble200" chance="0.05" />
+				<item name="Money_Ruble500" chance="0.05" />
+				<item name="Money_Ruble1000" chance="0.03" />
+				<item name="Money_Ruble2000" chance="0.02" />
+				<item name="Money_Ruble5000" chance="0.01" />
+		</cargo>
+		<cargo chance="0.05" name="US_Money">
+				<item name="Money_Dollar1" chance="0.15" />
+				<item name="Money_Dollar2" chance="0.15" />
+				<item name="Money_Dollar5" chance="0.10" />
+				<item name="Money_Dollar10" chance="0.10" />
+				<item name="Money_Dollar20" chance="0.05" />
+				<item name="Money_Dollar50" chance="0.02" />
+				<item name="Money_Dollar100" chance="0.01" />
+		</cargo>
+		<cargo chance="0.05" name="EU_Money">
+				<item name="Money_Euro1" chance="0.15" />
+				<item name="Money_Euro2" chance="0.15" />
+				<item name="Money_Euro5" chance="0.15" />
+				<item name="Money_Euro10" chance="0.10" />
+				<item name="Money_Euro20" chance="0.10" />
+				<item name="Money_Euro50" chance="0.10" />
+				<item name="Money_Euro100" chance="0.05" />
+				<item name="Money_Euro200" chance="0.02" />
+				<item name="Money_Euro500" chance="0.01" />
+		</cargo>
+<!-- CJ-187-MoreMoney -->
 		<cargo chance="0.15" name="foodHermit">
 				<item name="TunaCan" chance="0.11" />
 				<item name="SardinesCan" chance="0.11" />
