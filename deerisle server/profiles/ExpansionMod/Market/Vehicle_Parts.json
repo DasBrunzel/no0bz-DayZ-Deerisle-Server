@@ -1074,6 +1074,83 @@
                 "expansionkeychain_purple",
                 "expansionkeychain_yellow"
             ]
+        },
+        {
+            "ClassName": "KamazWheel",
+            "MaxPriceThreshold": 590,
+            "MinPriceThreshold": 355,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "KamazHood",
+            "MaxPriceThreshold": 645,
+            "MinPriceThreshold": 385,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "KamazDoors_Driver",
+            "MaxPriceThreshold": 645,
+            "MinPriceThreshold": 385,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "KamazDoors_CoDriver",
+            "MaxPriceThreshold": 645,
+            "MinPriceThreshold": 385,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "KamazTrunk",
+            "MaxPriceThreshold": 645,
+            "MinPriceThreshold": 385,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Kamaz_Tent",
+            "MaxPriceThreshold": 645,
+            "MinPriceThreshold": 385,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Kamaz_fuelPump",
+            "MaxPriceThreshold": 645,
+            "MinPriceThreshold": 385,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         }
     ]
 }
