@@ -2,8 +2,8 @@
 <!-- ================== YOU CAN FIND A LOT MORE INFORMATIONS IN HELP.TXT FILES ================== -->
 <types>	
 	<type name="Horde_Main_Options">
-        <Number_Of_Zombies		Day="20" 	Night="15"/> 	<!-- [Integer 0 to infinite] -->
-		<Horde_Movement_Type	Day="0" 	Night="6"/>		<!-- [Integer 0 to 6] More details in help file -->
+        <Number_Of_Zombies		Day="-1" 	Night="-1"/> 	<!-- [Integer 0 to infinite] -->
+		<Horde_Movement_Type	Day="-1" 	Night="-1"/>		<!-- [Integer 0 to 6] More details in help file -->
 		<!--  Movement Types list : -->
 		<!-- -1: 		Horde Disable  -->
 		<!--  0:		Spawn at random position then random movements -->

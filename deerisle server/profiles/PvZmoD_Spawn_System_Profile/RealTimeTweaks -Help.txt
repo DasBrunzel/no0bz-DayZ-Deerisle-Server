@@ -9,6 +9,7 @@ Use INTEGERS values (no decimals, no true/false...)
 	{
 		"0": 0,   	// (Debug) Show debug messages (0 disable, 1 enable)
 
+		"1": 800, 	// (Perf) Maximum number of Z on the server (not including those spawned with vanilla system if always active) 0 => completely deactivate spawn system, just keeping items spawn on zeds body.
 		"2": 0, 	// (Tech) Use vanilla spawn system when fps are under the "56" value (see post in workshop discution thread for details)
 		
 		"3": 100, 	// (Tweak Difficulty)  Dynamic 	spawn RATIO 	(0 to disable Dynamic spawns - 50 for Vanilla Zombies - 100 for PvZmoD Tweaked Zombies - can be more)
