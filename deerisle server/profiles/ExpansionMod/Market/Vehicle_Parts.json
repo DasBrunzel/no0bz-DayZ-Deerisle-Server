@@ -17,17 +17,6 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "HydraulicJack",
-            "MaxPriceThreshold": 10150,
-            "MinPriceThreshold": 610,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
         {
             "ClassName": "headlighth7",
             "MaxPriceThreshold": 985,
@@ -1074,6 +1063,6 @@
                 "expansionkeychain_purple",
                 "expansionkeychain_yellow"
             ]
-        },
+        }
     ]
 }
