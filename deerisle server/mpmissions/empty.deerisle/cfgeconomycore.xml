@@ -100,4 +100,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="SNAFU.xml" type="types" />
 		<file name="snafuspawnabletypes25percent.xml" type="spawnabletypes" />
 	</ce>
+	<ce folder="Portable9vBatteryCharger">
+		<file name="types.xml" type="types" />
+	</ce>
 </economycore>

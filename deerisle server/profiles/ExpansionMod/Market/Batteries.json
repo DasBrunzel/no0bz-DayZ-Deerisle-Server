@@ -49,6 +49,28 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
-        }
+        },
+        {
+            "ClassName": "PowerBattery",
+            "MaxPriceThreshold": 1095,
+            "MinPriceThreshold": 735,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "PowerBattery2",
+            "MaxPriceThreshold": 1095,
+            "MinPriceThreshold": 735,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
     ]
 }

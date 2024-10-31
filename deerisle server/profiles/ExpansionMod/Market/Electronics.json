@@ -128,6 +128,39 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
-        }
+        },
+        {
+            "ClassName": "Battery_Charger",
+            "MaxPriceThreshold": 475,
+            "MinPriceThreshold": 285,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BatteryReCharger",
+            "MaxPriceThreshold": 475,
+            "MinPriceThreshold": 285,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ReCharger2",
+            "MaxPriceThreshold": 475,
+            "MinPriceThreshold": 285,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
     ]
 }
