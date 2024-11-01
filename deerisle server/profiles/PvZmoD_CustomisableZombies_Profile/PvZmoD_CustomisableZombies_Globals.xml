@@ -9,7 +9,7 @@
     </type>
 	
 	<type name="Features_Activation">
-        <Zombies_Speed_Activated							Day = "1"	Night = "0"/>	<!-- [0 or 1]  -->
+        <Zombies_Speed_Activated							Day = "0"	Night = "1"/>	<!-- [0 or 1]  -->
 		<Zombies_Speed_Adjust_Activated						Day = "1"	Night = "1"/>	<!-- [0 or 1]  -->
         <Zombies_CrawlControl_Activated						Day = "1"	Night = "1"/>	<!-- [0 or 1]  -->
 		<Zombies_Can_Dodge							 		Day = "1"	Night = "1"/>	<!-- [0 or 1]  -->
@@ -33,7 +33,7 @@
         <Zombies_Strength_Ratio						Day	= "1.0"	Night = "1.0"/> <!-- [Decimal 0.0 to infinite] Except the bleeding chance -->
         <Zombies_Speed_Ratio						Day	= "1.0"	Night = "1.0"/> <!-- [Decimal 0.0 to infinite] -->
 		<Zombies_Clamp_Speed_Mini					Day	= "0.0"	Night = "0.0"/> <!-- [Decimal 1.5=Walk / 2.5=Run / 3.0=Sprint] -->
-        <Zombies_Clamp_Speed_Maxi					Day	= "1.0"	Night = "1.0"/> <!-- [Decimal 1.5=Walk / 2.5=Run / 3.0=Sprint] -->
+        <Zombies_Clamp_Speed_Maxi					Day	= "2.0"	Night = "2.0"/> <!-- [Decimal 1.5=Walk / 2.5=Run / 3.0=Sprint] -->
         <Zombies_Hearing_Standing_Players_Ratio		Day	= "1.0"	Night = "1.0"/> <!-- [Decimal 0.0 to 1.0] -->
         <Zombies_Hearing_Crouching_Players_Ratio	Day	= "1.0"	Night = "1.0"/> <!-- [Decimal 0.0 to 1.0] -->
         <Zombies_Size_Ratio							Day	= "1.0"	Night = "1.0"/> <!-- [Decimal 0.01 to infinite] -->
