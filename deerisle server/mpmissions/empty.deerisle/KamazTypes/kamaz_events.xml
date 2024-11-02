@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <events>
-	<event name="VehicleKamaz_Spawn">
+    <event name="VehicleKamaz_Spawn">
         <nominal>1</nominal>
         <min>1</min>
         <max>1</max>
