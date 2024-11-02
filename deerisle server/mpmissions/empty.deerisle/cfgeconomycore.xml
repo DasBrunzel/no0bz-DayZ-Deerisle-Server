@@ -94,7 +94,6 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="KamazTypes.xml" type="types" />
 		<file name="kamaz_cfgspawnabletypes.xml" type="spawnabletypes" />
 		<file name="kamaz_events.xml" type="events" />
-		<file name="kamaz_events.xml" type="cfgeventspawns" />
 	</ce>
 	<ce folder="SNAFU">
 		<file name="SNAFU.xml" type="types" />
